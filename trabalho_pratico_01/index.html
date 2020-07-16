@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cores RGB</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    
+    <main>
+      <div class="content-input">
+        <label id="text-red" for="red">(R) Vermelho:</label>
+        <input
+          type="range"
+          class="slider"
+          name="slider-red"
+          id="slider-red"
+          min="0"
+          max="255"
+          value="255"
+        />
+        <input
+          type="text"
+          name="red"
+          id="red"
+          class="box"
+          value="255"
+          disabled
+        />
+      </div>
+
+      <div class="content-input">
+        <label id="text-green" for="green">(G) Verde:</label>
+        <input
+          type="range"
+          class="slider"
+          name="slider-green"
+          id="slider-green"
+          min="0"
+          max="255"
+          value="255"
+        />
+        <input
+          type="text"
+          name="green"
+          id="green"
+          value="255"
+          class="box"
+          disabled
+        />
+      </div>
+
+      <div class="content-input">
+        <label id="text-blue" for="blue">(B) Azul:</label>
+        <input
+          type="range"
+          class="slider"
+          name="slider-blue"
+          id="slider-blue"
+          min="0"
+          max="255"
+          value="255"
+        />
+        <input
+          type="text"
+          name="blue"
+          id="blue"
+          class="box"
+          value="255"
+          disabled
+        />
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>
