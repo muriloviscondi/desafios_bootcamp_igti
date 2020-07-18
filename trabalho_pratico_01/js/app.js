@@ -10,7 +10,7 @@ function start() {
   const contentInputs = document.querySelectorAll('.content-input');
 
   for (let contentInput of contentInputs) {
-    contentInput.addEventListener('change', () => {
+    contentInput.addEventListener('input', () => {
       const slider = contentInput.querySelector('.slider');
       const box = contentInput.querySelector('.box');
 
