@@ -1,0 +1,12 @@
+h1 {
+  font-size: 35px;
+}
+
+.card-title {
+  font-size: 20px !important;
+}
+
+.content_input {
+  width: 87%;
+  margin-right: 5px;
+}
