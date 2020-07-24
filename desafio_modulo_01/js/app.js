@@ -1,19 +1,38 @@
-const users = document.querySelector('#users');
+const users = document.querySelector('#users-list');
+const search = document.querySelector('#search');
+const btnSearch = document.querySelector('#btnSearch');
 
 addEventListener('load', () => {
-  doFetch();
+  btnSearch.addEventListener('click', doFetch);
 });
 
 async function doFetch() {
   const res = await fetch(
     'https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo'
   );
+
   const data = await res.json();
-  showData(data);
+
+  const map = data.results
+    .map((user) => {
+      return {
+        name: user.name,
+        age: user.dob.age,
+        avatar: user.picture.thumbnail,
+        gender: user.gender,
+      };
+    })
+    .filter((user) =>
+      user.name.first.toUpperCase().startsWith(search.value.toUpperCase())
+    );
+
+  showData(map);
 }
 
 function showData(data) {
-  const dataResults = data.results;
+  const dataResults = data;
+
+  clearDivUsers();
 
   for (let dataResult of dataResults) {
     addUser(dataResult);
@@ -29,7 +48,7 @@ function addUser(data) {
     col.classList.add('col', 's2');
 
     const imageUser = document.createElement('img');
-    imageUser.src = data.picture.thumbnail;
+    imageUser.src = data.avatar;
     imageUser.classList.add('circle', 'responsive-img');
 
     col.appendChild(imageUser);
@@ -43,7 +62,7 @@ function addUser(data) {
 
     const descriptionUser = document.createElement('span');
     descriptionUser.classList.add('black-text');
-    descriptionUser.innerText = `${data.name.first} ${data.name.last}, ${data.dob.age} anos`;
+    descriptionUser.innerText = `${data.name.first} ${data.name.last}, ${data.age} anos`;
 
     col.appendChild(descriptionUser);
     rowValignWrapper.appendChild(col);
@@ -52,4 +71,8 @@ function addUser(data) {
 
   addImageProfile();
   addDescriptionProfile();
+}
+
+function clearDivUsers() {
+  users.innerHTML = '';
 }
