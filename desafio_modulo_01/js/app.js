@@ -1,61 +1,58 @@
 let tabUsers = null;
-
 let allUsers = [];
+let globalFilterUsers = [];
+let mediaAges = 0;
 
 addEventListener('load', () => {
   tabUsers = document.querySelector('#users');
-
-  const search = document.querySelector('#search');
-  const btnSearch = document.querySelector('#btnSearch');
-
-  const genderMale = document.querySelector('#gender_m');
-  const genderFemale = document.querySelector('#gender_f');
-  const sum_ages = document.querySelector('#sum_ages');
+  mediaAges = document.querySelector('#media_ages');
 
   fetchUsers();
 });
 
-async function fetchUsers() {
-  const res = await fetch(
-    'https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo'
-  );
+function fetchUsers() {
+  const data = users;
 
-  const data = await res.json();
+  allUsers = data.results.map((user) => {
+    const { name, age, avatar, gender } = user;
+    return {
+      name,
+      age: user.dob.age,
+      avatar: user.picture.thumbnail,
+      gender,
+    };
+  });
 
-  allUsers = data.results
-    .map((user) => {
-      const { name, age, avatar, gender } = user;
-      return {
-        name,
-        age: user.dob.age,
-        avatar: user.picture.thumbnail,
-        gender,
-      };
-    })
-    .filter((user) =>
-      user.name.first.toUpperCase().startsWith(search.value.toUpperCase())
-    );
-
+  globalFilterUsers = [...allUsers];
   render();
 }
 
 function render() {
   renderUser();
+  filteredUsers();
+  totalAges();
+  totalGenderMale();
+  totalGenderFemale();
+  totalMediaAges();
 }
 
 function renderUser() {
-  let usersHTML = '<div id="users-list">';
+  tabUsers.innerHTML = '';
+  let usersHTML = `
+    <div id="users-list">
+    <span class="card-title">${globalFilterUsers.length} usuários (as)</span>
+    `;
 
-  allUsers.forEach((user) => {
+  globalFilterUsers.forEach((user) => {
     const { name, age, avatar } = user;
 
     const userHTML = `
-      '<div className="row valign-wrapper">'
-        <div class="col s2">
+      <div class="row valign-wrapper">
+        <div class="div-image col s2">
           <img src="${avatar}" alt="${name.first} ${name.last}"/>
         </div>
         <div class="col s10">
-          <span className="black-text">${name.first} ${name.last} ,${age}</span>
+          <span class="black-text">${name.first} ${name.last}, ${age} anos</span>
         </div>
       </div>
     `;
@@ -63,21 +60,73 @@ function renderUser() {
   });
 
   usersHTML += '</div>';
-  tabUsers.innerHTML = usersHTML;
+  tabUsers.innerHTML += usersHTML;
 }
 
-function clearDivUsers() {
-  users.innerHTML = '';
+function filteredUsers() {
+  const btnSearch = document.querySelector('#btnSearch');
+  const search = document.querySelector('#search');
+
+  btnSearch.addEventListener('click', () => {
+    const inputSearch = search.value.toLowerCase();
+    searchingUsers(inputSearch);
+  });
+
+  search.addEventListener('keyup', (event) => {
+    const { key } = event;
+    const { value } = event.target;
+
+    if (key !== 'Enter') {
+      return;
+    }
+
+    searchingUsers(value.toLowerCase());
+  });
 }
 
-function handleStatitics(data) {
-  const totalAges = data.reduce((accumulator, current) => {
+function searchingUsers(inputSearch) {
+  globalFilterUsers = allUsers.filter((item) => {
+    return (
+      item.name.first.toLowerCase().includes(inputSearch) +
+      item.name.last.toLowerCase().includes(inputSearch)
+    );
+  });
+
+  render();
+}
+
+function totalGenderMale() {
+  const genderMale = document.querySelector('#gender_m');
+  const totalMales = globalFilterUsers.filter((user) => user.gender === 'male');
+  const sumMales = totalMales.length;
+
+  genderMale.textContent = sumMales;
+}
+
+function totalGenderFemale() {
+  const genderFemale = document.querySelector('#gender_f');
+  const totalFemales = globalFilterUsers.filter(
+    (user) => user.gender === 'female'
+  );
+
+  const sumFemales = totalFemales.length;
+
+  genderFemale.textContent = sumFemales;
+}
+
+function totalAges() {
+  const sumAges = document.querySelector('#sum_ages');
+  const totalAges = globalFilterUsers.reduce((accumulator, current) => {
     return accumulator + current.age;
   }, 0);
 
-  const totalMales = data.reduce((accumulator, current) => {
-    return accumulator + current.gender;
-  }, 0);
+  sumAges.textContent = totalAges;
+}
 
-  sum_ages.textContent = totalAges;
+function totalMediaAges() {
+  const totalAges = Number(document.querySelector('#sum_ages').textContent);
+  const totalIndexs = globalFilterUsers.length;
+  const res = totalAges / totalIndexs;
+
+  mediaAges.textContent = res.toFixed(2);
 }
