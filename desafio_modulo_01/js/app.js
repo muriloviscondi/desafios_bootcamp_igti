@@ -1,78 +1,83 @@
-const users = document.querySelector('#users-list');
-const search = document.querySelector('#search');
-const btnSearch = document.querySelector('#btnSearch');
+let tabUsers = null;
+
+let allUsers = [];
 
 addEventListener('load', () => {
-  btnSearch.addEventListener('click', doFetch);
+  tabUsers = document.querySelector('#users');
+
+  const search = document.querySelector('#search');
+  const btnSearch = document.querySelector('#btnSearch');
+
+  const genderMale = document.querySelector('#gender_m');
+  const genderFemale = document.querySelector('#gender_f');
+  const sum_ages = document.querySelector('#sum_ages');
+
+  fetchUsers();
 });
 
-async function doFetch() {
+async function fetchUsers() {
   const res = await fetch(
     'https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo'
   );
 
   const data = await res.json();
 
-  const map = data.results
+  allUsers = data.results
     .map((user) => {
+      const { name, age, avatar, gender } = user;
       return {
-        name: user.name,
+        name,
         age: user.dob.age,
         avatar: user.picture.thumbnail,
-        gender: user.gender,
+        gender,
       };
     })
     .filter((user) =>
       user.name.first.toUpperCase().startsWith(search.value.toUpperCase())
     );
 
-  showData(map);
+  render();
 }
 
-function showData(data) {
-  const dataResults = data;
-
-  clearDivUsers();
-
-  for (let dataResult of dataResults) {
-    addUser(dataResult);
-  }
+function render() {
+  renderUser();
 }
 
-function addUser(data) {
-  const rowValignWrapper = document.createElement('div');
-  rowValignWrapper.classList.add('row', 'valign-wrapper');
+function renderUser() {
+  let usersHTML = '<div id="users-list">';
 
-  function addImageProfile() {
-    const col = document.createElement('div');
-    col.classList.add('col', 's2');
+  allUsers.forEach((user) => {
+    const { name, age, avatar } = user;
 
-    const imageUser = document.createElement('img');
-    imageUser.src = data.avatar;
-    imageUser.classList.add('circle', 'responsive-img');
+    const userHTML = `
+      '<div className="row valign-wrapper">'
+        <div class="col s2">
+          <img src="${avatar}" alt="${name.first} ${name.last}"/>
+        </div>
+        <div class="col s10">
+          <span className="black-text">${name.first} ${name.last} ,${age}</span>
+        </div>
+      </div>
+    `;
+    usersHTML += userHTML;
+  });
 
-    col.appendChild(imageUser);
-    rowValignWrapper.appendChild(col);
-    users.appendChild(rowValignWrapper);
-  }
-
-  function addDescriptionProfile() {
-    const col = document.createElement('div');
-    col.classList.add('col', 's10');
-
-    const descriptionUser = document.createElement('span');
-    descriptionUser.classList.add('black-text');
-    descriptionUser.innerText = `${data.name.first} ${data.name.last}, ${data.age} anos`;
-
-    col.appendChild(descriptionUser);
-    rowValignWrapper.appendChild(col);
-    users.appendChild(rowValignWrapper);
-  }
-
-  addImageProfile();
-  addDescriptionProfile();
+  usersHTML += '</div>';
+  tabUsers.innerHTML = usersHTML;
 }
 
 function clearDivUsers() {
   users.innerHTML = '';
+}
+
+function handleStatitics(data) {
+  const totalAges = data.reduce((accumulator, current) => {
+    return accumulator + current.age;
+  }, 0);
+
+  const totalMales = data.reduce((accumulator, current) => {
+    return accumulator + current.gender;
+  }, 0);
+
+  sum_ages.textContent = totalAges;
 }

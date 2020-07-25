@@ -15,11 +15,13 @@ h1 {
   margin-right: 5px;
 }
 
+.div-image {
+  margin-right: 10px;
+}
+
 img {
   width: 50px;
   height: 50px;
-  margin-right: 10px;
-  margin-left: 10px;
 
   border-radius: 50%;
 }
