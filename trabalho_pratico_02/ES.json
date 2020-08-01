@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1",
+    "city": "Afonso Cláudio",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "2",
+    "city": "Água Doce do Norte",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "3",
+    "city": "Águia Branca",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "4",
+    "city": "Alegre",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "5",
+    "city": "Alfredo Chaves",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "6",
+    "city": "Alto Rio Novo",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "7",
+    "city": "Anchieta",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "8",
+    "city": "Apiacá",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "9",
+    "city": "Aracruz",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "10",
+    "city": "Atilio Vivacqua",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "11",
+    "city": "Baixo Guandu",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "12",
+    "city": "Barra de São Francisco",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "13",
+    "city": "Boa Esperança",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "14",
+    "city": "Bom Jesus do Norte",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "15",
+    "city": "Brejetuba",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "16",
+    "city": "Cachoeiro de Itapemirim",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "17",
+    "city": "Cariacica",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "18",
+    "city": "Castelo",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "19",
+    "city": "Colatina",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "20",
+    "city": "Conceição da Barra",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "21",
+    "city": "Conceição do Castelo",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "22",
+    "city": "Divino de São Lourenço",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "23",
+    "city": "Domingos Martins",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "24",
+    "city": "Dores do Rio Preto",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "25",
+    "city": "Ecoporanga",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "26",
+    "city": "Fundão",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "27",
+    "city": "Governador Lindenberg",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "28",
+    "city": "Guaçuí",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "29",
+    "city": "Guarapari",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "30",
+    "city": "Ibatiba",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "31",
+    "city": "Ibiraçu",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "32",
+    "city": "Ibitirama",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "33",
+    "city": "Iconha",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "34",
+    "city": "Irupi",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "35",
+    "city": "Itaguaçu",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "36",
+    "city": "Itapemirim",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "37",
+    "city": "Itarana",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "38",
+    "city": "Iúna",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "39",
+    "city": "Jaguaré",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "40",
+    "city": "Jerônimo Monteiro",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "41",
+    "city": "João Neiva",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "42",
+    "city": "Laranja da Terra",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "43",
+    "city": "Linhares",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "44",
+    "city": "Mantenópolis",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "45",
+    "city": "Marataízes",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "46",
+    "city": "Marechal Floriano",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "47",
+    "city": "Marilândia",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "48",
+    "city": "Mimoso do Sul",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "49",
+    "city": "Montanha",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "50",
+    "city": "Mucurici",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "51",
+    "city": "Muniz Freire",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "52",
+    "city": "Muqui",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "53",
+    "city": "Nova Venécia",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "54",
+    "city": "Pancas",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "55",
+    "city": "Pedro Canário",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "56",
+    "city": "Pinheiros",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "57",
+    "city": "Piúma",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "58",
+    "city": "Ponto Belo",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "59",
+    "city": "Presidente Kennedy",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "60",
+    "city": "Rio Bananal",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "61",
+    "city": "Rio Novo do Sul",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "62",
+    "city": "Santa Leopoldina",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "63",
+    "city": "Santa Maria de Jetibá",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "64",
+    "city": "Santa Teresa",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "65",
+    "city": "São Domingos do Norte",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "66",
+    "city": "São Gabriel da Palha",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "67",
+    "city": "São José do Calçado",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "68",
+    "city": "São Mateus",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "69",
+    "city": "São Roque do Canaã",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "70",
+    "city": "Serra",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "71",
+    "city": "Sooretama",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "72",
+    "city": "Vargem Alta",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "73",
+    "city": "Venda Nova do Imigrante",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "74",
+    "city": "Viana",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "75",
+    "city": "Vila Pavão",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "76",
+    "city": "Vila Valério",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "77",
+    "city": "Vila Velha",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  },
+  {
+    "id": "78",
+    "city": "Vitória",
+    "uf": "ES",
+    "state": "Espírito Santo"
+  }
+]

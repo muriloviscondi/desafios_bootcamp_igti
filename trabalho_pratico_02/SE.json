@@ -1,0 +1,452 @@
+[
+  {
+    "id": "5351",
+    "city": "Amparo de São Francisco",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5352",
+    "city": "Aquidabã",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5353",
+    "city": "Aracaju",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5354",
+    "city": "Arauá",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5355",
+    "city": "Areia Branca",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5356",
+    "city": "Barra dos Coqueiros",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5357",
+    "city": "Boquim",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5358",
+    "city": "Brejo Grande",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5359",
+    "city": "Campo do Brito",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5360",
+    "city": "Canhoba",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5361",
+    "city": "Canindé de São Francisco",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5362",
+    "city": "Capela",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5363",
+    "city": "Carira",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5364",
+    "city": "Carmópolis",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5365",
+    "city": "Cedro de São João",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5366",
+    "city": "Cristinápolis",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5367",
+    "city": "Cumbe",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5368",
+    "city": "Divina Pastora",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5369",
+    "city": "Estância",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5370",
+    "city": "Feira Nova",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5371",
+    "city": "Frei Paulo",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5372",
+    "city": "Gararu",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5373",
+    "city": "General Maynard",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5374",
+    "city": "Gracho Cardoso",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5375",
+    "city": "Ilha das Flores",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5376",
+    "city": "Indiaroba",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5377",
+    "city": "Itabaiana",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5378",
+    "city": "Itabaianinha",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5379",
+    "city": "Itabi",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5380",
+    "city": "Itaporanga d`Ajuda",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5381",
+    "city": "Japaratuba",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5382",
+    "city": "Japoatã",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5383",
+    "city": "Lagarto",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5384",
+    "city": "Laranjeiras",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5385",
+    "city": "Macambira",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5386",
+    "city": "Malhada dos Bois",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5387",
+    "city": "Malhador",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5388",
+    "city": "Maruim",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5389",
+    "city": "Moita Bonita",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5390",
+    "city": "Monte Alegre de Sergipe",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5391",
+    "city": "Muribeca",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5392",
+    "city": "Neópolis",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5393",
+    "city": "Nossa Senhora Aparecida",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5394",
+    "city": "Nossa Senhora da Glória",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5395",
+    "city": "Nossa Senhora das Dores",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5396",
+    "city": "Nossa Senhora de Lourdes",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5397",
+    "city": "Nossa Senhora do Socorro",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5398",
+    "city": "Pacatuba",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5399",
+    "city": "Pedra Mole",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5400",
+    "city": "Pedrinhas",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5401",
+    "city": "Pinhão",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5402",
+    "city": "Pirambu",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5403",
+    "city": "Poço Redondo",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5404",
+    "city": "Poço Verde",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5405",
+    "city": "Porto da Folha",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5406",
+    "city": "Propriá",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5407",
+    "city": "Riachão do Dantas",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5408",
+    "city": "Riachuelo",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5409",
+    "city": "Ribeirópolis",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5410",
+    "city": "Rosário do Catete",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5411",
+    "city": "Salgado",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5412",
+    "city": "Santa Luzia do Itanhy",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5413",
+    "city": "Santa Rosa de Lima",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5414",
+    "city": "Santana do São Francisco",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5415",
+    "city": "Santo Amaro das Brotas",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5416",
+    "city": "São Cristóvão",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5417",
+    "city": "São Domingos",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5418",
+    "city": "São Francisco",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5419",
+    "city": "São Miguel do Aleixo",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5420",
+    "city": "Simão Dias",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5421",
+    "city": "Siriri",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5422",
+    "city": "Telha",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5423",
+    "city": "Tobias Barreto",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5424",
+    "city": "Tomar do Geru",
+    "uf": "SE",
+    "state": "Sergipe"
+  },
+  {
+    "id": "5425",
+    "city": "Umbaúba",
+    "uf": "SE",
+    "state": "Sergipe"
+  }
+]

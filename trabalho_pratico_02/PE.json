@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "3183",
+    "city": "Abreu e Lima",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3184",
+    "city": "Afogados da Ingazeira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3185",
+    "city": "Afrânio",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3186",
+    "city": "Agrestina",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3187",
+    "city": "Água Preta",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3188",
+    "city": "Águas Belas",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3189",
+    "city": "Alagoinha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3190",
+    "city": "Aliança",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3191",
+    "city": "Altinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3192",
+    "city": "Amaraji",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3193",
+    "city": "Angelim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3194",
+    "city": "Araçoiaba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3195",
+    "city": "Araripina",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3196",
+    "city": "Arcoverde",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3197",
+    "city": "Barra de Guabiraba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3198",
+    "city": "Barreiros",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3199",
+    "city": "Belém de Maria",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3200",
+    "city": "Belém de São Francisco",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3201",
+    "city": "Belo Jardim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3202",
+    "city": "Betânia",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3203",
+    "city": "Bezerros",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3204",
+    "city": "Bodocó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3205",
+    "city": "Bom Conselho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3206",
+    "city": "Bom Jardim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3207",
+    "city": "Bonito",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3208",
+    "city": "Brejão",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3209",
+    "city": "Brejinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3210",
+    "city": "Brejo da Madre de Deus",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3211",
+    "city": "Buenos Aires",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3212",
+    "city": "Buíque",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3213",
+    "city": "Cabo de Santo Agostinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3214",
+    "city": "Cabrobó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3215",
+    "city": "Cachoeirinha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3216",
+    "city": "Caetés",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3217",
+    "city": "Calçado",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3218",
+    "city": "Calumbi",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3219",
+    "city": "Camaragibe",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3220",
+    "city": "Camocim de São Félix",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3221",
+    "city": "Camutanga",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3222",
+    "city": "Canhotinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3223",
+    "city": "Capoeiras",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3224",
+    "city": "Carnaíba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3225",
+    "city": "Carnaubeira da Penha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3226",
+    "city": "Carpina",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3227",
+    "city": "Caruaru",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3228",
+    "city": "Casinhas",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3229",
+    "city": "Catende",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3230",
+    "city": "Cedro",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3231",
+    "city": "Chã de Alegria",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3232",
+    "city": "Chã Grande",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3233",
+    "city": "Condado",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3234",
+    "city": "Correntes",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3235",
+    "city": "Cortês",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3236",
+    "city": "Cumaru",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3237",
+    "city": "Cupira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3238",
+    "city": "Custódia",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3239",
+    "city": "Dormentes",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3240",
+    "city": "Escada",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3241",
+    "city": "Exu",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3242",
+    "city": "Feira Nova",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3243",
+    "city": "Fernando de Noronha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3244",
+    "city": "Ferreiros",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3245",
+    "city": "Flores",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3246",
+    "city": "Floresta",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3247",
+    "city": "Frei Miguelinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3248",
+    "city": "Gameleira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3249",
+    "city": "Garanhuns",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3250",
+    "city": "Glória do Goitá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3251",
+    "city": "Goiana",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3252",
+    "city": "Granito",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3253",
+    "city": "Gravatá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3254",
+    "city": "Iati",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3255",
+    "city": "Ibimirim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3256",
+    "city": "Ibirajuba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3257",
+    "city": "Igarassu",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3258",
+    "city": "Iguaraci",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3259",
+    "city": "Ilha de Itamaracá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3260",
+    "city": "Inajá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3261",
+    "city": "Ingazeira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3262",
+    "city": "Ipojuca",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3263",
+    "city": "Ipubi",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3264",
+    "city": "Itacuruba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3265",
+    "city": "Itaíba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3266",
+    "city": "Itambé",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3267",
+    "city": "Itapetim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3268",
+    "city": "Itapissuma",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3269",
+    "city": "Itaquitinga",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3270",
+    "city": "Jaboatão dos Guararapes",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3271",
+    "city": "Jaqueira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3272",
+    "city": "Jataúba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3273",
+    "city": "Jatobá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3274",
+    "city": "João Alfredo",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3275",
+    "city": "Joaquim Nabuco",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3276",
+    "city": "Jucati",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3277",
+    "city": "Jupi",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3278",
+    "city": "Jurema",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3279",
+    "city": "Lagoa do Carro",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3280",
+    "city": "Lagoa do Itaenga",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3281",
+    "city": "Lagoa do Ouro",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3282",
+    "city": "Lagoa dos Gatos",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3283",
+    "city": "Lagoa Grande",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3284",
+    "city": "Lajedo",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3285",
+    "city": "Limoeiro",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3286",
+    "city": "Macaparana",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3287",
+    "city": "Machados",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3288",
+    "city": "Manari",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3289",
+    "city": "Maraial",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3290",
+    "city": "Mirandiba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3291",
+    "city": "Moreilândia",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3292",
+    "city": "Moreno",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3293",
+    "city": "Nazaré da Mata",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3294",
+    "city": "Olinda",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3295",
+    "city": "Orobó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3296",
+    "city": "Orocó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3297",
+    "city": "Ouricuri",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3298",
+    "city": "Palmares",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3299",
+    "city": "Palmeirina",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3300",
+    "city": "Panelas",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3301",
+    "city": "Paranatama",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3302",
+    "city": "Parnamirim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3303",
+    "city": "Passira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3304",
+    "city": "Paudalho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3305",
+    "city": "Paulista",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3306",
+    "city": "Pedra",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3307",
+    "city": "Pesqueira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3308",
+    "city": "Petrolândia",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3309",
+    "city": "Petrolina",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3310",
+    "city": "Poção",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3311",
+    "city": "Pombos",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3312",
+    "city": "Primavera",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3313",
+    "city": "Quipapá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3314",
+    "city": "Quixaba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3315",
+    "city": "Recife",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3316",
+    "city": "Riacho das Almas",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3317",
+    "city": "Ribeirão",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3318",
+    "city": "Rio Formoso",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3319",
+    "city": "Sairé",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3320",
+    "city": "Salgadinho",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3321",
+    "city": "Salgueiro",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3322",
+    "city": "Saloá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3323",
+    "city": "Sanharó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3324",
+    "city": "Santa Cruz",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3325",
+    "city": "Santa Cruz da Baixa Verde",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3326",
+    "city": "Santa Cruz do Capibaribe",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3327",
+    "city": "Santa Filomena",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3328",
+    "city": "Santa Maria da Boa Vista",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3329",
+    "city": "Santa Maria do Cambucá",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3330",
+    "city": "Santa Terezinha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3331",
+    "city": "São Benedito do Sul",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3332",
+    "city": "São Bento do Una",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3333",
+    "city": "São Caitano",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3334",
+    "city": "São João",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3335",
+    "city": "São Joaquim do Monte",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3336",
+    "city": "São José da Coroa Grande",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3337",
+    "city": "São José do Belmonte",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3338",
+    "city": "São José do Egito",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3339",
+    "city": "São Lourenço da Mata",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3340",
+    "city": "São Vicente Ferrer",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3341",
+    "city": "Serra Talhada",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3342",
+    "city": "Serrita",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3343",
+    "city": "Sertânia",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3344",
+    "city": "Sirinhaém",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3345",
+    "city": "Solidão",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3346",
+    "city": "Surubim",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3347",
+    "city": "Tabira",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3348",
+    "city": "Tacaimbó",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3349",
+    "city": "Tacaratu",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3350",
+    "city": "Tamandaré",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3351",
+    "city": "Taquaritinga do Norte",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3352",
+    "city": "Terezinha",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3353",
+    "city": "Terra Nova",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3354",
+    "city": "Timbaúba",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3355",
+    "city": "Toritama",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3356",
+    "city": "Tracunhaém",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3357",
+    "city": "Trindade",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3358",
+    "city": "Triunfo",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3359",
+    "city": "Tupanatinga",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3360",
+    "city": "Tuparetama",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3361",
+    "city": "Venturosa",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3362",
+    "city": "Verdejante",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3363",
+    "city": "Vertente do Lério",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3364",
+    "city": "Vertentes",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3365",
+    "city": "Vicência",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3366",
+    "city": "Vitória de Santo Antão",
+    "uf": "PE",
+    "state": "Pernambuco"
+  },
+  {
+    "id": "3367",
+    "city": "Xexéu",
+    "uf": "PE",
+    "state": "Pernambuco"
+  }
+]

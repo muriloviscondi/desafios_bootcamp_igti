@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "2561",
+    "city": "Água Branca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2562",
+    "city": "Aguiar",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2563",
+    "city": "Alagoa Grande",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2564",
+    "city": "Alagoa Nova",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2565",
+    "city": "Alagoinha",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2566",
+    "city": "Alcantil",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2567",
+    "city": "Algodão de Jandaíra",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2568",
+    "city": "Alhandra",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2569",
+    "city": "Amparo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2570",
+    "city": "Aparecida",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2571",
+    "city": "Araçagi",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2572",
+    "city": "Arara",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2573",
+    "city": "Araruna",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2574",
+    "city": "Areia",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2575",
+    "city": "Areia de Baraúnas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2576",
+    "city": "Areial",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2577",
+    "city": "Aroeiras",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2578",
+    "city": "Assunção",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2579",
+    "city": "Baía da Traição",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2580",
+    "city": "Bananeiras",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2581",
+    "city": "Baraúna",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2582",
+    "city": "Barra de Santa Rosa",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2583",
+    "city": "Barra de Santana",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2584",
+    "city": "Barra de São Miguel",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2585",
+    "city": "Bayeux",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2586",
+    "city": "Belém",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2587",
+    "city": "Belém do Brejo do Cruz",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2588",
+    "city": "Bernardino Batista",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2589",
+    "city": "Boa Ventura",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2590",
+    "city": "Boa Vista",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2591",
+    "city": "Bom Jesus",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2592",
+    "city": "Bom Sucesso",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2593",
+    "city": "Bonito de Santa Fé",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2594",
+    "city": "Boqueirão",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2595",
+    "city": "Borborema",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2596",
+    "city": "Brejo do Cruz",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2597",
+    "city": "Brejo dos Santos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2598",
+    "city": "Caaporã",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2599",
+    "city": "Cabaceiras",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2600",
+    "city": "Cabedelo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2601",
+    "city": "Cachoeira dos Índios",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2602",
+    "city": "Cacimba de Areia",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2603",
+    "city": "Cacimba de Dentro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2604",
+    "city": "Cacimbas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2605",
+    "city": "Caiçara",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2606",
+    "city": "Cajazeiras",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2607",
+    "city": "Cajazeirinhas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2608",
+    "city": "Caldas Brandão",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2609",
+    "city": "Camalaú",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2610",
+    "city": "Campina Grande",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2611",
+    "city": "Campo de Santana",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2612",
+    "city": "Capim",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2613",
+    "city": "Caraúbas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2614",
+    "city": "Carrapateira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2615",
+    "city": "Casserengue",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2616",
+    "city": "Catingueira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2617",
+    "city": "Catolé do Rocha",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2618",
+    "city": "Caturité",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2619",
+    "city": "Conceição",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2620",
+    "city": "Condado",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2621",
+    "city": "Conde",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2622",
+    "city": "Congo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2623",
+    "city": "Coremas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2624",
+    "city": "Coxixola",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2625",
+    "city": "Cruz do Espírito Santo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2626",
+    "city": "Cubati",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2627",
+    "city": "Cuité",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2628",
+    "city": "Cuité de Mamanguape",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2629",
+    "city": "Cuitegi",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2630",
+    "city": "Curral de Cima",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2631",
+    "city": "Curral Velho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2632",
+    "city": "Damião",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2633",
+    "city": "Desterro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2634",
+    "city": "Diamante",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2635",
+    "city": "Dona Inês",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2636",
+    "city": "Duas Estradas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2637",
+    "city": "Emas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2638",
+    "city": "Esperança",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2639",
+    "city": "Fagundes",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2640",
+    "city": "Frei Martinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2641",
+    "city": "Gado Bravo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2642",
+    "city": "Guarabira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2643",
+    "city": "Gurinhém",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2644",
+    "city": "Gurjão",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2645",
+    "city": "Ibiara",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2646",
+    "city": "Igaracy",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2647",
+    "city": "Imaculada",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2648",
+    "city": "Ingá",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2649",
+    "city": "Itabaiana",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2650",
+    "city": "Itaporanga",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2651",
+    "city": "Itapororoca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2652",
+    "city": "Itatuba",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2653",
+    "city": "Jacaraú",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2654",
+    "city": "Jericó",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2655",
+    "city": "João Pessoa",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2656",
+    "city": "Juarez Távora",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2657",
+    "city": "Juazeirinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2658",
+    "city": "Junco do Seridó",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2659",
+    "city": "Juripiranga",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2660",
+    "city": "Juru",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2661",
+    "city": "Lagoa",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2662",
+    "city": "Lagoa de Dentro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2663",
+    "city": "Lagoa Seca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2664",
+    "city": "Lastro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2665",
+    "city": "Livramento",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2666",
+    "city": "Logradouro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2667",
+    "city": "Lucena",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2668",
+    "city": "Mãe d`Água",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2669",
+    "city": "Malta",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2670",
+    "city": "Mamanguape",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2671",
+    "city": "Manaíra",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2672",
+    "city": "Marcação",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2673",
+    "city": "Mari",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2674",
+    "city": "Marizópolis",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2675",
+    "city": "Massaranduba",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2676",
+    "city": "Mataraca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2677",
+    "city": "Matinhas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2678",
+    "city": "Mato Grosso",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2679",
+    "city": "Maturéia",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2680",
+    "city": "Mogeiro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2681",
+    "city": "Montadas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2682",
+    "city": "Monte Horebe",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2683",
+    "city": "Monteiro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2684",
+    "city": "Mulungu",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2685",
+    "city": "Natuba",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2686",
+    "city": "Nazarezinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2687",
+    "city": "Nova Floresta",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2688",
+    "city": "Nova Olinda",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2689",
+    "city": "Nova Palmeira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2690",
+    "city": "Olho d`Água",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2691",
+    "city": "Olivedos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2692",
+    "city": "Ouro Velho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2693",
+    "city": "Parari",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2694",
+    "city": "Passagem",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2695",
+    "city": "Patos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2696",
+    "city": "Paulista",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2697",
+    "city": "Pedra Branca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2698",
+    "city": "Pedra Lavrada",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2699",
+    "city": "Pedras de Fogo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2700",
+    "city": "Pedro Régis",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2701",
+    "city": "Piancó",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2702",
+    "city": "Picuí",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2703",
+    "city": "Pilar",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2704",
+    "city": "Pilões",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2705",
+    "city": "Pilõezinhos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2706",
+    "city": "Pirpirituba",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2707",
+    "city": "Pitimbu",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2708",
+    "city": "Pocinhos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2709",
+    "city": "Poço Dantas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2710",
+    "city": "Poço de José de Moura",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2711",
+    "city": "Pombal",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2712",
+    "city": "Prata",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2713",
+    "city": "Princesa Isabel",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2714",
+    "city": "Puxinanã",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2715",
+    "city": "Queimadas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2716",
+    "city": "Quixabá",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2717",
+    "city": "Remígio",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2718",
+    "city": "Riachão",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2719",
+    "city": "Riachão do Bacamarte",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2720",
+    "city": "Riachão do Poço",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2721",
+    "city": "Riacho de Santo Antônio",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2722",
+    "city": "Riacho dos Cavalos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2723",
+    "city": "Rio Tinto",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2724",
+    "city": "Salgadinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2725",
+    "city": "Salgado de São Félix",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2726",
+    "city": "Santa Cecília",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2727",
+    "city": "Santa Cruz",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2728",
+    "city": "Santa Helena",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2729",
+    "city": "Santa Inês",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2730",
+    "city": "Santa Luzia",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2731",
+    "city": "Santa Rita",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2732",
+    "city": "Santa Teresinha",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2733",
+    "city": "Santana de Mangueira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2734",
+    "city": "Santana dos Garrotes",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2735",
+    "city": "Santarém",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2736",
+    "city": "Santo André",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2737",
+    "city": "São Bentinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2738",
+    "city": "São Bento",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2739",
+    "city": "São Domingos de Pombal",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2740",
+    "city": "São Domingos do Cariri",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2741",
+    "city": "São Francisco",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2742",
+    "city": "São João do Cariri",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2743",
+    "city": "São João do Rio do Peixe",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2744",
+    "city": "São João do Tigre",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2745",
+    "city": "São José da Lagoa Tapada",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2746",
+    "city": "São José de Caiana",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2747",
+    "city": "São José de Espinharas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2748",
+    "city": "São José de Piranhas",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2749",
+    "city": "São José de Princesa",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2750",
+    "city": "São José do Bonfim",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2751",
+    "city": "São José do Brejo do Cruz",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2752",
+    "city": "São José do Sabugi",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2753",
+    "city": "São José dos Cordeiros",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2754",
+    "city": "São José dos Ramos",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2755",
+    "city": "São Mamede",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2756",
+    "city": "São Miguel de Taipu",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2757",
+    "city": "São Sebastião de Lagoa de Roça",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2758",
+    "city": "São Sebastião do Umbuzeiro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2759",
+    "city": "Sapé",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2760",
+    "city": "Seridó",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2761",
+    "city": "Serra Branca",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2762",
+    "city": "Serra da Raiz",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2763",
+    "city": "Serra Grande",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2764",
+    "city": "Serra Redonda",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2765",
+    "city": "Serraria",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2766",
+    "city": "Sertãozinho",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2767",
+    "city": "Sobrado",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2768",
+    "city": "Solânea",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2769",
+    "city": "Soledade",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2770",
+    "city": "Sossêgo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2771",
+    "city": "Sousa",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2772",
+    "city": "Sumé",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2773",
+    "city": "Taperoá",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2774",
+    "city": "Tavares",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2775",
+    "city": "Teixeira",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2776",
+    "city": "Tenório",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2777",
+    "city": "Triunfo",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2778",
+    "city": "Uiraúna",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2779",
+    "city": "Umbuzeiro",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2780",
+    "city": "Várzea",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2781",
+    "city": "Vieirópolis",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2782",
+    "city": "Vista Serrana",
+    "uf": "PB",
+    "state": "Paraíba"
+  },
+  {
+    "id": "2783",
+    "city": "Zabelê",
+    "uf": "PB",
+    "state": "Paraíba"
+  }
+]

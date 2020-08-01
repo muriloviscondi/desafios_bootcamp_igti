@@ -1,0 +1,836 @@
+[
+  {
+    "id": "5426",
+    "city": "Abreulândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5427",
+    "city": "Aguiarnópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5428",
+    "city": "Aliança do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5429",
+    "city": "Almas",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5430",
+    "city": "Alvorada",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5431",
+    "city": "Ananás",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5432",
+    "city": "Angico",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5433",
+    "city": "Aparecida do Rio Negro",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5434",
+    "city": "Aragominas",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5435",
+    "city": "Araguacema",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5436",
+    "city": "Araguaçu",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5437",
+    "city": "Araguaína",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5438",
+    "city": "Araguanã",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5439",
+    "city": "Araguatins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5440",
+    "city": "Arapoema",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5441",
+    "city": "Arraias",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5442",
+    "city": "Augustinópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5443",
+    "city": "Aurora do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5444",
+    "city": "Axixá do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5445",
+    "city": "Babaçulândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5446",
+    "city": "Bandeirantes do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5447",
+    "city": "Barra do Ouro",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5448",
+    "city": "Barrolândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5449",
+    "city": "Bernardo Sayão",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5450",
+    "city": "Bom Jesus do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5451",
+    "city": "Brasilândia do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5452",
+    "city": "Brejinho de Nazaré",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5453",
+    "city": "Buriti do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5454",
+    "city": "Cachoeirinha",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5455",
+    "city": "Campos Lindos",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5456",
+    "city": "Cariri do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5457",
+    "city": "Carmolândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5458",
+    "city": "Carrasco Bonito",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5459",
+    "city": "Caseara",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5460",
+    "city": "Centenário",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5461",
+    "city": "Chapada da Natividade",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5462",
+    "city": "Chapada de Areia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5463",
+    "city": "Colinas do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5464",
+    "city": "Colméia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5465",
+    "city": "Combinado",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5466",
+    "city": "Conceição do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5467",
+    "city": "Couto de Magalhães",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5468",
+    "city": "Cristalândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5469",
+    "city": "Crixás do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5470",
+    "city": "Darcinópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5471",
+    "city": "Dianópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5472",
+    "city": "Divinópolis do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5473",
+    "city": "Dois Irmãos do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5474",
+    "city": "Dueré",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5475",
+    "city": "Esperantina",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5476",
+    "city": "Fátima",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5477",
+    "city": "Figueirópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5478",
+    "city": "Filadélfia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5479",
+    "city": "Formoso do Araguaia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5480",
+    "city": "Fortaleza do Tabocão",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5481",
+    "city": "Goianorte",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5482",
+    "city": "Goiatins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5483",
+    "city": "Guaraí",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5484",
+    "city": "Gurupi",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5485",
+    "city": "Ipueiras",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5486",
+    "city": "Itacajá",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5487",
+    "city": "Itaguatins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5488",
+    "city": "Itapiratins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5489",
+    "city": "Itaporã do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5490",
+    "city": "Jaú do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5491",
+    "city": "Juarina",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5492",
+    "city": "Lagoa da Confusão",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5493",
+    "city": "Lagoa do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5494",
+    "city": "Lajeado",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5495",
+    "city": "Lavandeira",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5496",
+    "city": "Lizarda",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5497",
+    "city": "Luzinópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5498",
+    "city": "Marianópolis do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5499",
+    "city": "Mateiros",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5500",
+    "city": "Maurilândia do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5501",
+    "city": "Miracema do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5502",
+    "city": "Miranorte",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5503",
+    "city": "Monte do Carmo",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5504",
+    "city": "Monte Santo do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5505",
+    "city": "Muricilândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5506",
+    "city": "Natividade",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5507",
+    "city": "Nazaré",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5508",
+    "city": "Nova Olinda",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5509",
+    "city": "Nova Rosalândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5510",
+    "city": "Novo Acordo",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5511",
+    "city": "Novo Alegre",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5512",
+    "city": "Novo Jardim",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5513",
+    "city": "Oliveira de Fátima",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5514",
+    "city": "Palmas",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5515",
+    "city": "Palmeirante",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5516",
+    "city": "Palmeiras do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5517",
+    "city": "Palmeirópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5518",
+    "city": "Paraíso do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5519",
+    "city": "Paranã",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5520",
+    "city": "Pau d`Arco",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5521",
+    "city": "Pedro Afonso",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5522",
+    "city": "Peixe",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5523",
+    "city": "Pequizeiro",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5524",
+    "city": "Pindorama do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5525",
+    "city": "Piraquê",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5526",
+    "city": "Pium",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5527",
+    "city": "Ponte Alta do Bom Jesus",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5528",
+    "city": "Ponte Alta do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5529",
+    "city": "Porto Alegre do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5530",
+    "city": "Porto Nacional",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5531",
+    "city": "Praia Norte",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5532",
+    "city": "Presidente Kennedy",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5533",
+    "city": "Pugmil",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5534",
+    "city": "Recursolândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5535",
+    "city": "Riachinho",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5536",
+    "city": "Rio da Conceição",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5537",
+    "city": "Rio dos Bois",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5538",
+    "city": "Rio Sono",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5539",
+    "city": "Sampaio",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5540",
+    "city": "Sandolândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5541",
+    "city": "Santa Fé do Araguaia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5542",
+    "city": "Santa Maria do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5543",
+    "city": "Santa Rita do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5544",
+    "city": "Santa Rosa do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5545",
+    "city": "Santa Tereza do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5546",
+    "city": "Santa Terezinha do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5547",
+    "city": "São Bento do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5548",
+    "city": "São Félix do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5549",
+    "city": "São Miguel do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5550",
+    "city": "São Salvador do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5551",
+    "city": "São Sebastião do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5552",
+    "city": "São Valério da Natividade",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5553",
+    "city": "Silvanópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5554",
+    "city": "Sítio Novo do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5555",
+    "city": "Sucupira",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5556",
+    "city": "Taguatinga",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5557",
+    "city": "Taipas do Tocantins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5558",
+    "city": "Talismã",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5559",
+    "city": "Tocantínia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5560",
+    "city": "Tocantinópolis",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5561",
+    "city": "Tupirama",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5562",
+    "city": "Tupiratins",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5563",
+    "city": "Wanderlândia",
+    "uf": "TO",
+    "state": "Tocantins"
+  },
+  {
+    "id": "5564",
+    "city": "Xambioá",
+    "uf": "TO",
+    "state": "Tocantins"
+  }
+]

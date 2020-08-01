@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "698",
+    "city": "Abaiara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "699",
+    "city": "Acarape",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "700",
+    "city": "Acaraú",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "701",
+    "city": "Acopiara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "702",
+    "city": "Aiuaba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "703",
+    "city": "Alcântaras",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "704",
+    "city": "Altaneira",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "705",
+    "city": "Alto Santo",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "706",
+    "city": "Amontada",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "707",
+    "city": "Antonina do Norte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "708",
+    "city": "Apuiarés",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "709",
+    "city": "Aquiraz",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "710",
+    "city": "Aracati",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "711",
+    "city": "Aracoiaba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "712",
+    "city": "Ararendá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "713",
+    "city": "Araripe",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "714",
+    "city": "Aratuba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "715",
+    "city": "Arneiroz",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "716",
+    "city": "Assaré",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "717",
+    "city": "Aurora",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "718",
+    "city": "Baixio",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "719",
+    "city": "Banabuiú",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "720",
+    "city": "Barbalha",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "721",
+    "city": "Barreira",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "722",
+    "city": "Barro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "723",
+    "city": "Barroquinha",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "724",
+    "city": "Baturité",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "725",
+    "city": "Beberibe",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "726",
+    "city": "Bela Cruz",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "727",
+    "city": "Boa Viagem",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "728",
+    "city": "Brejo Santo",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "729",
+    "city": "Camocim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "730",
+    "city": "Campos Sales",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "731",
+    "city": "Canindé",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "732",
+    "city": "Capistrano",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "733",
+    "city": "Caridade",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "734",
+    "city": "Cariré",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "735",
+    "city": "Caririaçu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "736",
+    "city": "Cariús",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "737",
+    "city": "Carnaubal",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "738",
+    "city": "Cascavel",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "739",
+    "city": "Catarina",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "740",
+    "city": "Catunda",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "741",
+    "city": "Caucaia",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "742",
+    "city": "Cedro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "743",
+    "city": "Chaval",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "744",
+    "city": "Choró",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "745",
+    "city": "Chorozinho",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "746",
+    "city": "Coreaú",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "747",
+    "city": "Crateús",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "748",
+    "city": "Crato",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "749",
+    "city": "Croatá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "750",
+    "city": "Cruz",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "751",
+    "city": "Deputado Irapuan Pinheiro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "752",
+    "city": "Ererê",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "753",
+    "city": "Eusébio",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "754",
+    "city": "Farias Brito",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "755",
+    "city": "Forquilha",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "756",
+    "city": "Fortaleza",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "757",
+    "city": "Fortim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "758",
+    "city": "Frecheirinha",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "759",
+    "city": "General Sampaio",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "760",
+    "city": "Graça",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "761",
+    "city": "Granja",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "762",
+    "city": "Granjeiro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "763",
+    "city": "Groaíras",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "764",
+    "city": "Guaiúba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "765",
+    "city": "Guaraciaba do Norte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "766",
+    "city": "Guaramiranga",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "767",
+    "city": "Hidrolândia",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "768",
+    "city": "Horizonte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "769",
+    "city": "Ibaretama",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "770",
+    "city": "Ibiapina",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "771",
+    "city": "Ibicuitinga",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "772",
+    "city": "Icapuí",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "773",
+    "city": "Icó",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "774",
+    "city": "Iguatu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "775",
+    "city": "Independência",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "776",
+    "city": "Ipaporanga",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "777",
+    "city": "Ipaumirim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "778",
+    "city": "Ipu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "779",
+    "city": "Ipueiras",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "780",
+    "city": "Iracema",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "781",
+    "city": "Irauçuba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "782",
+    "city": "Itaiçaba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "783",
+    "city": "Itaitinga",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "784",
+    "city": "Itapagé",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "785",
+    "city": "Itapipoca",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "786",
+    "city": "Itapiúna",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "787",
+    "city": "Itarema",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "788",
+    "city": "Itatira",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "789",
+    "city": "Jaguaretama",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "790",
+    "city": "Jaguaribara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "791",
+    "city": "Jaguaribe",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "792",
+    "city": "Jaguaruana",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "793",
+    "city": "Jardim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "794",
+    "city": "Jati",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "795",
+    "city": "Jijoca de Jericoacoara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "796",
+    "city": "Juazeiro do Norte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "797",
+    "city": "Jucás",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "798",
+    "city": "Lavras da Mangabeira",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "799",
+    "city": "Limoeiro do Norte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "800",
+    "city": "Madalena",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "801",
+    "city": "Maracanaú",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "802",
+    "city": "Maranguape",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "803",
+    "city": "Marco",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "804",
+    "city": "Martinópole",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "805",
+    "city": "Massapê",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "806",
+    "city": "Mauriti",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "807",
+    "city": "Meruoca",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "808",
+    "city": "Milagres",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "809",
+    "city": "Milhã",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "810",
+    "city": "Miraíma",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "811",
+    "city": "Missão Velha",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "812",
+    "city": "Mombaça",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "813",
+    "city": "Monsenhor Tabosa",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "814",
+    "city": "Morada Nova",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "815",
+    "city": "Moraújo",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "816",
+    "city": "Morrinhos",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "817",
+    "city": "Mucambo",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "818",
+    "city": "Mulungu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "819",
+    "city": "Nova Olinda",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "820",
+    "city": "Nova Russas",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "821",
+    "city": "Novo Oriente",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "822",
+    "city": "Ocara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "823",
+    "city": "Orós",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "824",
+    "city": "Pacajus",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "825",
+    "city": "Pacatuba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "826",
+    "city": "Pacoti",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "827",
+    "city": "Pacujá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "828",
+    "city": "Palhano",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "829",
+    "city": "Palmácia",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "830",
+    "city": "Paracuru",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "831",
+    "city": "Paraipaba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "832",
+    "city": "Parambu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "833",
+    "city": "Paramoti",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "834",
+    "city": "Pedra Branca",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "835",
+    "city": "Penaforte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "836",
+    "city": "Pentecoste",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "837",
+    "city": "Pereiro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "838",
+    "city": "Pindoretama",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "839",
+    "city": "Piquet Carneiro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "840",
+    "city": "Pires Ferreira",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "841",
+    "city": "Poranga",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "842",
+    "city": "Porteiras",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "843",
+    "city": "Potengi",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "844",
+    "city": "Potiretama",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "845",
+    "city": "Quiterianópolis",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "846",
+    "city": "Quixadá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "847",
+    "city": "Quixelô",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "848",
+    "city": "Quixeramobim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "849",
+    "city": "Quixeré",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "850",
+    "city": "Redenção",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "851",
+    "city": "Reriutaba",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "852",
+    "city": "Russas",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "853",
+    "city": "Saboeiro",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "854",
+    "city": "Salitre",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "855",
+    "city": "Santa Quitéria",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "856",
+    "city": "Santana do Acaraú",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "857",
+    "city": "Santana do Cariri",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "858",
+    "city": "São Benedito",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "859",
+    "city": "São Gonçalo do Amarante",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "860",
+    "city": "São João do Jaguaribe",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "861",
+    "city": "São Luís do Curu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "862",
+    "city": "Senador Pompeu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "863",
+    "city": "Senador Sá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "864",
+    "city": "Sobral",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "865",
+    "city": "Solonópole",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "866",
+    "city": "Tabuleiro do Norte",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "867",
+    "city": "Tamboril",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "868",
+    "city": "Tarrafas",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "869",
+    "city": "Tauá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "870",
+    "city": "Tejuçuoca",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "871",
+    "city": "Tianguá",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "872",
+    "city": "Trairi",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "873",
+    "city": "Tururu",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "874",
+    "city": "Ubajara",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "875",
+    "city": "Umari",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "876",
+    "city": "Umirim",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "877",
+    "city": "Uruburetama",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "878",
+    "city": "Uruoca",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "879",
+    "city": "Varjota",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "880",
+    "city": "Várzea Alegre",
+    "uf": "CE",
+    "state": "Ceará"
+  },
+  {
+    "id": "881",
+    "city": "Viçosa do Ceará",
+    "uf": "CE",
+    "state": "Ceará"
+  }
+]

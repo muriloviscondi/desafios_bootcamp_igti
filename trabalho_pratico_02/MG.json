@@ -1,0 +1,5120 @@
+[
+  {
+    "id": "1565",
+    "city": "Abadia dos Dourados",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1566",
+    "city": "Abaeté",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1567",
+    "city": "Abre Campo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1568",
+    "city": "Acaiaca",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1569",
+    "city": "Açucena",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1570",
+    "city": "Água Boa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1571",
+    "city": "Água Comprida",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1572",
+    "city": "Aguanil",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1573",
+    "city": "Águas Formosas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1574",
+    "city": "Águas Vermelhas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1575",
+    "city": "Aimorés",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1576",
+    "city": "Aiuruoca",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1577",
+    "city": "Alagoa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1578",
+    "city": "Albertina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1579",
+    "city": "Além Paraíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1580",
+    "city": "Alfenas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1581",
+    "city": "Alfredo Vasconcelos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1582",
+    "city": "Almenara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1583",
+    "city": "Alpercata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1584",
+    "city": "Alpinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1585",
+    "city": "Alterosa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1586",
+    "city": "Alto Caparaó",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1587",
+    "city": "Alto Jequitibá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1588",
+    "city": "Alto Rio Doce",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1589",
+    "city": "Alvarenga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1590",
+    "city": "Alvinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1591",
+    "city": "Alvorada de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1592",
+    "city": "Amparo do Serra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1593",
+    "city": "Andradas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1594",
+    "city": "Andrelândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1595",
+    "city": "Angelândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1596",
+    "city": "Antônio Carlos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1597",
+    "city": "Antônio Dias",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1598",
+    "city": "Antônio Prado de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1599",
+    "city": "Araçaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1600",
+    "city": "Aracitaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1601",
+    "city": "Araçuaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1602",
+    "city": "Araguari",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1603",
+    "city": "Arantina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1604",
+    "city": "Araponga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1605",
+    "city": "Araporã",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1606",
+    "city": "Arapuá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1607",
+    "city": "Araújos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1608",
+    "city": "Araxá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1609",
+    "city": "Arceburgo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1610",
+    "city": "Arcos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1611",
+    "city": "Areado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1612",
+    "city": "Argirita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1613",
+    "city": "Aricanduva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1614",
+    "city": "Arinos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1615",
+    "city": "Astolfo Dutra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1616",
+    "city": "Ataléia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1617",
+    "city": "Augusto de Lima",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1618",
+    "city": "Baependi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1619",
+    "city": "Baldim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1620",
+    "city": "Bambuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1621",
+    "city": "Bandeira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1622",
+    "city": "Bandeira do Sul",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1623",
+    "city": "Barão de Cocais",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1624",
+    "city": "Barão de Monte Alto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1625",
+    "city": "Barbacena",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1626",
+    "city": "Barra Longa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1627",
+    "city": "Barroso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1628",
+    "city": "Bela Vista de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1629",
+    "city": "Belmiro Braga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1630",
+    "city": "Belo Horizonte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1631",
+    "city": "Belo Oriente",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1632",
+    "city": "Belo Vale",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1633",
+    "city": "Berilo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1634",
+    "city": "Berizal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1635",
+    "city": "Bertópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1636",
+    "city": "Betim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1637",
+    "city": "Bias Fortes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1638",
+    "city": "Bicas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1639",
+    "city": "Biquinhas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1640",
+    "city": "Boa Esperança",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1641",
+    "city": "Bocaina de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1642",
+    "city": "Bocaiúva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1643",
+    "city": "Bom Despacho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1644",
+    "city": "Bom Jardim de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1645",
+    "city": "Bom Jesus da Penha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1646",
+    "city": "Bom Jesus do Amparo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1647",
+    "city": "Bom Jesus do Galho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1648",
+    "city": "Bom Repouso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1649",
+    "city": "Bom Sucesso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1650",
+    "city": "Bonfim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1651",
+    "city": "Bonfinópolis de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1652",
+    "city": "Bonito de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1653",
+    "city": "Borda da Mata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1654",
+    "city": "Botelhos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1655",
+    "city": "Botumirim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1656",
+    "city": "Brás Pires",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1657",
+    "city": "Brasilândia de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1658",
+    "city": "Brasília de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1659",
+    "city": "Brasópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1660",
+    "city": "Braúnas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1661",
+    "city": "Brumadinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1662",
+    "city": "Bueno Brandão",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1663",
+    "city": "Buenópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1664",
+    "city": "Bugre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1665",
+    "city": "Buritis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1666",
+    "city": "Buritizeiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1667",
+    "city": "Cabeceira Grande",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1668",
+    "city": "Cabo Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1669",
+    "city": "Cachoeira da Prata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1670",
+    "city": "Cachoeira de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1671",
+    "city": "Cachoeira de Pajeú",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1672",
+    "city": "Cachoeira Dourada",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1673",
+    "city": "Caetanópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1674",
+    "city": "Caeté",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1675",
+    "city": "Caiana",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1676",
+    "city": "Cajuri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1677",
+    "city": "Caldas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1678",
+    "city": "Camacho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1679",
+    "city": "Camanducaia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1680",
+    "city": "Cambuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1681",
+    "city": "Cambuquira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1682",
+    "city": "Campanário",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1683",
+    "city": "Campanha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1684",
+    "city": "Campestre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1685",
+    "city": "Campina Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1686",
+    "city": "Campo Azul",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1687",
+    "city": "Campo Belo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1688",
+    "city": "Campo do Meio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1689",
+    "city": "Campo Florido",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1690",
+    "city": "Campos Altos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1691",
+    "city": "Campos Gerais",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1692",
+    "city": "Cana Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1693",
+    "city": "Canaã",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1694",
+    "city": "Canápolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1695",
+    "city": "Candeias",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1696",
+    "city": "Cantagalo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1697",
+    "city": "Caparaó",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1698",
+    "city": "Capela Nova",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1699",
+    "city": "Capelinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1700",
+    "city": "Capetinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1701",
+    "city": "Capim Branco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1702",
+    "city": "Capinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1703",
+    "city": "Capitão Andrade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1704",
+    "city": "Capitão Enéas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1705",
+    "city": "Capitólio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1706",
+    "city": "Caputira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1707",
+    "city": "Caraí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1708",
+    "city": "Caranaíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1709",
+    "city": "Carandaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1710",
+    "city": "Carangola",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1711",
+    "city": "Caratinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1712",
+    "city": "Carbonita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1713",
+    "city": "Careaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1714",
+    "city": "Carlos Chagas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1715",
+    "city": "Carmésia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1716",
+    "city": "Carmo da Cachoeira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1717",
+    "city": "Carmo da Mata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1718",
+    "city": "Carmo de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1719",
+    "city": "Carmo do Cajuru",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1720",
+    "city": "Carmo do Paranaíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1721",
+    "city": "Carmo do Rio Claro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1722",
+    "city": "Carmópolis de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1723",
+    "city": "Carneirinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1724",
+    "city": "Carrancas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1725",
+    "city": "Carvalhópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1726",
+    "city": "Carvalhos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1727",
+    "city": "Casa Grande",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1728",
+    "city": "Cascalho Rico",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1729",
+    "city": "Cássia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1730",
+    "city": "Cataguases",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1731",
+    "city": "Catas Altas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1732",
+    "city": "Catas Altas da Noruega",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1733",
+    "city": "Catuji",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1734",
+    "city": "Catuti",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1735",
+    "city": "Caxambu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1736",
+    "city": "Cedro do Abaeté",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1737",
+    "city": "Central de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1738",
+    "city": "Centralina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1739",
+    "city": "Chácara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1740",
+    "city": "Chalé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1741",
+    "city": "Chapada do Norte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1742",
+    "city": "Chapada Gaúcha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1743",
+    "city": "Chiador",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1744",
+    "city": "Cipotânea",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1745",
+    "city": "Claraval",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1746",
+    "city": "Claro dos Poções",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1747",
+    "city": "Cláudio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1748",
+    "city": "Coimbra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1749",
+    "city": "Coluna",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1750",
+    "city": "Comendador Gomes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1751",
+    "city": "Comercinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1752",
+    "city": "Conceição da Aparecida",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1753",
+    "city": "Conceição da Barra de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1754",
+    "city": "Conceição das Alagoas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1755",
+    "city": "Conceição das Pedras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1756",
+    "city": "Conceição de Ipanema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1757",
+    "city": "Conceição do Mato Dentro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1758",
+    "city": "Conceição do Pará",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1759",
+    "city": "Conceição do Rio Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1760",
+    "city": "Conceição dos Ouros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1761",
+    "city": "Cônego Marinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1762",
+    "city": "Confins",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1763",
+    "city": "Congonhal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1764",
+    "city": "Congonhas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1765",
+    "city": "Congonhas do Norte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1766",
+    "city": "Conquista",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1767",
+    "city": "Conselheiro Lafaiete",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1768",
+    "city": "Conselheiro Pena",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1769",
+    "city": "Consolação",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1770",
+    "city": "Contagem",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1771",
+    "city": "Coqueiral",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1772",
+    "city": "Coração de Jesus",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1773",
+    "city": "Cordisburgo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1774",
+    "city": "Cordislândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1775",
+    "city": "Corinto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1776",
+    "city": "Coroaci",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1777",
+    "city": "Coromandel",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1778",
+    "city": "Coronel Fabriciano",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1779",
+    "city": "Coronel Murta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1780",
+    "city": "Coronel Pacheco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1781",
+    "city": "Coronel Xavier Chaves",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1782",
+    "city": "Córrego Danta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1783",
+    "city": "Córrego do Bom Jesus",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1784",
+    "city": "Córrego Fundo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1785",
+    "city": "Córrego Novo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1786",
+    "city": "Couto de Magalhães de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1787",
+    "city": "Crisólita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1788",
+    "city": "Cristais",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1789",
+    "city": "Cristália",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1790",
+    "city": "Cristiano Otoni",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1791",
+    "city": "Cristina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1792",
+    "city": "Crucilândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1793",
+    "city": "Cruzeiro da Fortaleza",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1794",
+    "city": "Cruzília",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1795",
+    "city": "Cuparaque",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1796",
+    "city": "Curral de Dentro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1797",
+    "city": "Curvelo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1798",
+    "city": "Datas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1799",
+    "city": "Delfim Moreira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1800",
+    "city": "Delfinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1801",
+    "city": "Delta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1802",
+    "city": "Descoberto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1803",
+    "city": "Desterro de Entre Rios",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1804",
+    "city": "Desterro do Melo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1805",
+    "city": "Diamantina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1806",
+    "city": "Diogo de Vasconcelos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1807",
+    "city": "Dionísio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1808",
+    "city": "Divinésia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1809",
+    "city": "Divino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1810",
+    "city": "Divino das Laranjeiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1811",
+    "city": "Divinolândia de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1812",
+    "city": "Divinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1813",
+    "city": "Divisa Alegre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1814",
+    "city": "Divisa Nova",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1815",
+    "city": "Divisópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1816",
+    "city": "Dom Bosco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1817",
+    "city": "Dom Cavati",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1818",
+    "city": "Dom Joaquim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1819",
+    "city": "Dom Silvério",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1820",
+    "city": "Dom Viçoso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1821",
+    "city": "Dona Eusébia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1822",
+    "city": "Dores de Campos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1823",
+    "city": "Dores de Guanhães",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1824",
+    "city": "Dores do Indaiá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1825",
+    "city": "Dores do Turvo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1826",
+    "city": "Doresópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1827",
+    "city": "Douradoquara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1828",
+    "city": "Durandé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1829",
+    "city": "Elói Mendes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1830",
+    "city": "Engenheiro Caldas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1831",
+    "city": "Engenheiro Navarro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1832",
+    "city": "Entre Folhas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1833",
+    "city": "Entre Rios de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1834",
+    "city": "Ervália",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1835",
+    "city": "Esmeraldas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1836",
+    "city": "Espera Feliz",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1837",
+    "city": "Espinosa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1838",
+    "city": "Espírito Santo do Dourado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1839",
+    "city": "Estiva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1840",
+    "city": "Estrela Dalva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1841",
+    "city": "Estrela do Indaiá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1842",
+    "city": "Estrela do Sul",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1843",
+    "city": "Eugenópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1844",
+    "city": "Ewbank da Câmara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1845",
+    "city": "Extrema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1846",
+    "city": "Fama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1847",
+    "city": "Faria Lemos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1848",
+    "city": "Felício dos Santos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1849",
+    "city": "Felisburgo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1850",
+    "city": "Felixlândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1851",
+    "city": "Fernandes Tourinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1852",
+    "city": "Ferros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1853",
+    "city": "Fervedouro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1854",
+    "city": "Florestal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1855",
+    "city": "Formiga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1856",
+    "city": "Formoso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1857",
+    "city": "Fortaleza de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1858",
+    "city": "Fortuna de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1859",
+    "city": "Francisco Badaró",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1860",
+    "city": "Francisco Dumont",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1861",
+    "city": "Francisco Sá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1862",
+    "city": "Franciscópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1863",
+    "city": "Frei Gaspar",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1864",
+    "city": "Frei Inocêncio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1865",
+    "city": "Frei Lagonegro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1866",
+    "city": "Fronteira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1867",
+    "city": "Fronteira dos Vales",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1868",
+    "city": "Fruta de Leite",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1869",
+    "city": "Frutal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1870",
+    "city": "Funilândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1871",
+    "city": "Galiléia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1872",
+    "city": "Gameleiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1873",
+    "city": "Glaucilândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1874",
+    "city": "Goiabeira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1875",
+    "city": "Goianá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1876",
+    "city": "Gonçalves",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1877",
+    "city": "Gonzaga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1878",
+    "city": "Gouveia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1879",
+    "city": "Governador Valadares",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1880",
+    "city": "Grão Mogol",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1881",
+    "city": "Grupiara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1882",
+    "city": "Guanhães",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1883",
+    "city": "Guapé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1884",
+    "city": "Guaraciaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1885",
+    "city": "Guaraciama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1886",
+    "city": "Guaranésia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1887",
+    "city": "Guarani",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1888",
+    "city": "Guarará",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1889",
+    "city": "Guarda-Mor",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1890",
+    "city": "Guaxupé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1891",
+    "city": "Guidoval",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1892",
+    "city": "Guimarânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1893",
+    "city": "Guiricema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1894",
+    "city": "Gurinhatã",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1895",
+    "city": "Heliodora",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1896",
+    "city": "Iapu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1897",
+    "city": "Ibertioga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1898",
+    "city": "Ibiá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1899",
+    "city": "Ibiaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1900",
+    "city": "Ibiracatu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1901",
+    "city": "Ibiraci",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1902",
+    "city": "Ibirité",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1903",
+    "city": "Ibitiúra de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1904",
+    "city": "Ibituruna",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1905",
+    "city": "Icaraí de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1906",
+    "city": "Igarapé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1907",
+    "city": "Igaratinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1908",
+    "city": "Iguatama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1909",
+    "city": "Ijaci",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1910",
+    "city": "Ilicínea",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1911",
+    "city": "Imbé de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1912",
+    "city": "Inconfidentes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1913",
+    "city": "Indaiabira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1914",
+    "city": "Indianópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1915",
+    "city": "Ingaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1916",
+    "city": "Inhapim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1917",
+    "city": "Inhaúma",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1918",
+    "city": "Inimutaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1919",
+    "city": "Ipaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1920",
+    "city": "Ipanema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1921",
+    "city": "Ipatinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1922",
+    "city": "Ipiaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1923",
+    "city": "Ipuiúna",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1924",
+    "city": "Iraí de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1925",
+    "city": "Itabira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1926",
+    "city": "Itabirinha de Mantena",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1927",
+    "city": "Itabirito",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1928",
+    "city": "Itacambira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1929",
+    "city": "Itacarambi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1930",
+    "city": "Itaguara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1931",
+    "city": "Itaipé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1932",
+    "city": "Itajubá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1933",
+    "city": "Itamarandiba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1934",
+    "city": "Itamarati de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1935",
+    "city": "Itambacuri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1936",
+    "city": "Itambé do Mato Dentro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1937",
+    "city": "Itamogi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1938",
+    "city": "Itamonte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1939",
+    "city": "Itanhandu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1940",
+    "city": "Itanhomi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1941",
+    "city": "Itaobim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1942",
+    "city": "Itapagipe",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1943",
+    "city": "Itapecerica",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1944",
+    "city": "Itapeva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1945",
+    "city": "Itatiaiuçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1946",
+    "city": "Itaú de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1947",
+    "city": "Itaúna",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1948",
+    "city": "Itaverava",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1949",
+    "city": "Itinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1950",
+    "city": "Itueta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1951",
+    "city": "Ituiutaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1952",
+    "city": "Itumirim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1953",
+    "city": "Iturama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1954",
+    "city": "Itutinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1955",
+    "city": "Jaboticatubas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1956",
+    "city": "Jacinto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1957",
+    "city": "Jacuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1958",
+    "city": "Jacutinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1959",
+    "city": "Jaguaraçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1960",
+    "city": "Jaíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1961",
+    "city": "Jampruca",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1962",
+    "city": "Janaúba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1963",
+    "city": "Januária",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1964",
+    "city": "Japaraíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1965",
+    "city": "Japonvar",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1966",
+    "city": "Jeceaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1967",
+    "city": "Jenipapo de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1968",
+    "city": "Jequeri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1969",
+    "city": "Jequitaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1970",
+    "city": "Jequitibá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1971",
+    "city": "Jequitinhonha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1972",
+    "city": "Jesuânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1973",
+    "city": "Joaíma",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1974",
+    "city": "Joanésia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1975",
+    "city": "João Monlevade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1976",
+    "city": "João Pinheiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1977",
+    "city": "Joaquim Felício",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1978",
+    "city": "Jordânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1979",
+    "city": "José Gonçalves de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1980",
+    "city": "José Raydan",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1981",
+    "city": "Josenópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1982",
+    "city": "Juatuba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1983",
+    "city": "Juiz de Fora",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1984",
+    "city": "Juramento",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1985",
+    "city": "Juruaia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1986",
+    "city": "Juvenília",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1987",
+    "city": "Ladainha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1988",
+    "city": "Lagamar",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1989",
+    "city": "Lagoa da Prata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1990",
+    "city": "Lagoa dos Patos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1991",
+    "city": "Lagoa Dourada",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1992",
+    "city": "Lagoa Formosa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1993",
+    "city": "Lagoa Grande",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1994",
+    "city": "Lagoa Santa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1995",
+    "city": "Lajinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1996",
+    "city": "Lambari",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1997",
+    "city": "Lamim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1998",
+    "city": "Laranjal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "1999",
+    "city": "Lassance",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2000",
+    "city": "Lavras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2001",
+    "city": "Leandro Ferreira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2002",
+    "city": "Leme do Prado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2003",
+    "city": "Leopoldina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2004",
+    "city": "Liberdade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2005",
+    "city": "Lima Duarte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2006",
+    "city": "Limeira do Oeste",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2007",
+    "city": "Lontra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2008",
+    "city": "Luisburgo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2009",
+    "city": "Luislândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2010",
+    "city": "Luminárias",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2011",
+    "city": "Luz",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2012",
+    "city": "Machacalis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2013",
+    "city": "Machado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2014",
+    "city": "Madre de Deus de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2015",
+    "city": "Malacacheta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2016",
+    "city": "Mamonas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2017",
+    "city": "Manga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2018",
+    "city": "Manhuaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2019",
+    "city": "Manhumirim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2020",
+    "city": "Mantena",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2021",
+    "city": "Mar de Espanha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2022",
+    "city": "Maravilhas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2023",
+    "city": "Maria da Fé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2024",
+    "city": "Mariana",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2025",
+    "city": "Marilac",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2026",
+    "city": "Mário Campos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2027",
+    "city": "Maripá de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2028",
+    "city": "Marliéria",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2029",
+    "city": "Marmelópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2030",
+    "city": "Martinho Campos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2031",
+    "city": "Martins Soares",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2032",
+    "city": "Mata Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2033",
+    "city": "Materlândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2034",
+    "city": "Mateus Leme",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2035",
+    "city": "Mathias Lobato",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2036",
+    "city": "Matias Barbosa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2037",
+    "city": "Matias Cardoso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2038",
+    "city": "Matipó",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2039",
+    "city": "Mato Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2040",
+    "city": "Matozinhos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2041",
+    "city": "Matutina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2042",
+    "city": "Medeiros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2043",
+    "city": "Medina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2044",
+    "city": "Mendes Pimentel",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2045",
+    "city": "Mercês",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2046",
+    "city": "Mesquita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2047",
+    "city": "Minas Novas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2048",
+    "city": "Minduri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2049",
+    "city": "Mirabela",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2050",
+    "city": "Miradouro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2051",
+    "city": "Miraí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2052",
+    "city": "Miravânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2053",
+    "city": "Moeda",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2054",
+    "city": "Moema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2055",
+    "city": "Monjolos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2056",
+    "city": "Monsenhor Paulo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2057",
+    "city": "Montalvânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2058",
+    "city": "Monte Alegre de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2059",
+    "city": "Monte Azul",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2060",
+    "city": "Monte Belo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2061",
+    "city": "Monte Carmelo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2062",
+    "city": "Monte Formoso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2063",
+    "city": "Monte Santo de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2064",
+    "city": "Monte Sião",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2065",
+    "city": "Montes Claros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2066",
+    "city": "Montezuma",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2067",
+    "city": "Morada Nova de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2068",
+    "city": "Morro da Garça",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2069",
+    "city": "Morro do Pilar",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2070",
+    "city": "Munhoz",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2071",
+    "city": "Muriaé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2072",
+    "city": "Mutum",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2073",
+    "city": "Muzambinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2074",
+    "city": "Nacip Raydan",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2075",
+    "city": "Nanuque",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2076",
+    "city": "Naque",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2077",
+    "city": "Natalândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2078",
+    "city": "Natércia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2079",
+    "city": "Nazareno",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2080",
+    "city": "Nepomuceno",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2081",
+    "city": "Ninheira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2082",
+    "city": "Nova Belém",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2083",
+    "city": "Nova Era",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2084",
+    "city": "Nova Lima",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2085",
+    "city": "Nova Módica",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2086",
+    "city": "Nova Ponte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2087",
+    "city": "Nova Porteirinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2088",
+    "city": "Nova Resende",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2089",
+    "city": "Nova Serrana",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2090",
+    "city": "Nova União",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2091",
+    "city": "Novo Cruzeiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2092",
+    "city": "Novo Oriente de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2093",
+    "city": "Novorizonte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2094",
+    "city": "Olaria",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2095",
+    "city": "Olhos-d`Água",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2096",
+    "city": "Olímpio Noronha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2097",
+    "city": "Oliveira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2098",
+    "city": "Oliveira Fortes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2099",
+    "city": "Onça de Pitangui",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2100",
+    "city": "Oratórios",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2101",
+    "city": "Orizânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2102",
+    "city": "Ouro Branco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2103",
+    "city": "Ouro Fino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2104",
+    "city": "Ouro Preto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2105",
+    "city": "Ouro Verde de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2106",
+    "city": "Padre Carvalho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2107",
+    "city": "Padre Paraíso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2108",
+    "city": "Pai Pedro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2109",
+    "city": "Paineiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2110",
+    "city": "Pains",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2111",
+    "city": "Paiva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2112",
+    "city": "Palma",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2113",
+    "city": "Palmópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2114",
+    "city": "Papagaios",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2115",
+    "city": "Pará de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2116",
+    "city": "Paracatu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2117",
+    "city": "Paraguaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2118",
+    "city": "Paraisópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2119",
+    "city": "Paraopeba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2120",
+    "city": "Passa Quatro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2121",
+    "city": "Passa Tempo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2122",
+    "city": "Passabém",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2123",
+    "city": "Passa-Vinte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2124",
+    "city": "Passos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2125",
+    "city": "Patis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2126",
+    "city": "Patos de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2127",
+    "city": "Patrocínio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2128",
+    "city": "Patrocínio do Muriaé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2129",
+    "city": "Paula Cândido",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2130",
+    "city": "Paulistas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2131",
+    "city": "Pavão",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2132",
+    "city": "Peçanha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2133",
+    "city": "Pedra Azul",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2134",
+    "city": "Pedra Bonita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2135",
+    "city": "Pedra do Anta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2136",
+    "city": "Pedra do Indaiá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2137",
+    "city": "Pedra Dourada",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2138",
+    "city": "Pedralva",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2139",
+    "city": "Pedras de Maria da Cruz",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2140",
+    "city": "Pedrinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2141",
+    "city": "Pedro Leopoldo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2142",
+    "city": "Pedro Teixeira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2143",
+    "city": "Pequeri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2144",
+    "city": "Pequi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2145",
+    "city": "Perdigão",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2146",
+    "city": "Perdizes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2147",
+    "city": "Perdões",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2148",
+    "city": "Periquito",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2149",
+    "city": "Pescador",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2150",
+    "city": "Piau",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2151",
+    "city": "Piedade de Caratinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2152",
+    "city": "Piedade de Ponte Nova",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2153",
+    "city": "Piedade do Rio Grande",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2154",
+    "city": "Piedade dos Gerais",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2155",
+    "city": "Pimenta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2156",
+    "city": "Pingo-d`Água",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2157",
+    "city": "Pintópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2158",
+    "city": "Piracema",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2159",
+    "city": "Pirajuba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2160",
+    "city": "Piranga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2161",
+    "city": "Piranguçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2162",
+    "city": "Piranguinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2163",
+    "city": "Pirapetinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2164",
+    "city": "Pirapora",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2165",
+    "city": "Piraúba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2166",
+    "city": "Pitangui",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2167",
+    "city": "Piumhi",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2168",
+    "city": "Planura",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2169",
+    "city": "Poço Fundo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2170",
+    "city": "Poços de Caldas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2171",
+    "city": "Pocrane",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2172",
+    "city": "Pompéu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2173",
+    "city": "Ponte Nova",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2174",
+    "city": "Ponto Chique",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2175",
+    "city": "Ponto dos Volantes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2176",
+    "city": "Porteirinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2177",
+    "city": "Porto Firme",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2178",
+    "city": "Poté",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2179",
+    "city": "Pouso Alegre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2180",
+    "city": "Pouso Alto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2181",
+    "city": "Prados",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2182",
+    "city": "Prata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2183",
+    "city": "Pratápolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2184",
+    "city": "Pratinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2185",
+    "city": "Presidente Bernardes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2186",
+    "city": "Presidente Juscelino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2187",
+    "city": "Presidente Kubitschek",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2188",
+    "city": "Presidente Olegário",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2189",
+    "city": "Prudente de Morais",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2190",
+    "city": "Quartel Geral",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2191",
+    "city": "Queluzito",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2192",
+    "city": "Raposos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2193",
+    "city": "Raul Soares",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2194",
+    "city": "Recreio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2195",
+    "city": "Reduto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2196",
+    "city": "Resende Costa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2197",
+    "city": "Resplendor",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2198",
+    "city": "Ressaquinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2199",
+    "city": "Riachinho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2200",
+    "city": "Riacho dos Machados",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2201",
+    "city": "Ribeirão das Neves",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2202",
+    "city": "Ribeirão Vermelho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2203",
+    "city": "Rio Acima",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2204",
+    "city": "Rio Casca",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2205",
+    "city": "Rio do Prado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2206",
+    "city": "Rio Doce",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2207",
+    "city": "Rio Espera",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2208",
+    "city": "Rio Manso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2209",
+    "city": "Rio Novo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2210",
+    "city": "Rio Paranaíba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2211",
+    "city": "Rio Pardo de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2212",
+    "city": "Rio Piracicaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2213",
+    "city": "Rio Pomba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2214",
+    "city": "Rio Preto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2215",
+    "city": "Rio Vermelho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2216",
+    "city": "Ritápolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2217",
+    "city": "Rochedo de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2218",
+    "city": "Rodeiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2219",
+    "city": "Romaria",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2220",
+    "city": "Rosário da Limeira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2221",
+    "city": "Rubelita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2222",
+    "city": "Rubim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2223",
+    "city": "Sabará",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2224",
+    "city": "Sabinópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2225",
+    "city": "Sacramento",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2226",
+    "city": "Salinas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2227",
+    "city": "Salto da Divisa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2228",
+    "city": "Santa Bárbara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2229",
+    "city": "Santa Bárbara do Leste",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2230",
+    "city": "Santa Bárbara do Monte Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2231",
+    "city": "Santa Bárbara do Tugúrio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2232",
+    "city": "Santa Cruz de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2233",
+    "city": "Santa Cruz de Salinas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2234",
+    "city": "Santa Cruz do Escalvado",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2235",
+    "city": "Santa Efigênia de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2236",
+    "city": "Santa Fé de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2237",
+    "city": "Santa Helena de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2238",
+    "city": "Santa Juliana",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2239",
+    "city": "Santa Luzia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2240",
+    "city": "Santa Margarida",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2241",
+    "city": "Santa Maria de Itabira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2242",
+    "city": "Santa Maria do Salto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2243",
+    "city": "Santa Maria do Suaçuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2244",
+    "city": "Santa Rita de Caldas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2245",
+    "city": "Santa Rita de Ibitipoca",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2246",
+    "city": "Santa Rita de Jacutinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2247",
+    "city": "Santa Rita de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2248",
+    "city": "Santa Rita do Itueto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2249",
+    "city": "Santa Rita do Sapucaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2250",
+    "city": "Santa Rosa da Serra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2251",
+    "city": "Santa Vitória",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2252",
+    "city": "Santana da Vargem",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2253",
+    "city": "Santana de Cataguases",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2254",
+    "city": "Santana de Pirapama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2255",
+    "city": "Santana do Deserto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2256",
+    "city": "Santana do Garambéu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2257",
+    "city": "Santana do Jacaré",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2258",
+    "city": "Santana do Manhuaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2259",
+    "city": "Santana do Paraíso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2260",
+    "city": "Santana do Riacho",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2261",
+    "city": "Santana dos Montes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2262",
+    "city": "Santo Antônio do Amparo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2263",
+    "city": "Santo Antônio do Aventureiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2264",
+    "city": "Santo Antônio do Grama",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2265",
+    "city": "Santo Antônio do Itambé",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2266",
+    "city": "Santo Antônio do Jacinto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2267",
+    "city": "Santo Antônio do Monte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2268",
+    "city": "Santo Antônio do Retiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2269",
+    "city": "Santo Antônio do Rio Abaixo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2270",
+    "city": "Santo Hipólito",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2271",
+    "city": "Santos Dumont",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2272",
+    "city": "São Bento Abade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2273",
+    "city": "São Brás do Suaçuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2274",
+    "city": "São Domingos das Dores",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2275",
+    "city": "São Domingos do Prata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2276",
+    "city": "São Félix de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2277",
+    "city": "São Francisco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2278",
+    "city": "São Francisco de Paula",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2279",
+    "city": "São Francisco de Sales",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2280",
+    "city": "São Francisco do Glória",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2281",
+    "city": "São Geraldo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2282",
+    "city": "São Geraldo da Piedade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2283",
+    "city": "São Geraldo do Baixio",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2284",
+    "city": "São Gonçalo do Abaeté",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2285",
+    "city": "São Gonçalo do Pará",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2286",
+    "city": "São Gonçalo do Rio Abaixo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2287",
+    "city": "São Gonçalo do Rio Preto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2288",
+    "city": "São Gonçalo do Sapucaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2289",
+    "city": "São Gotardo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2290",
+    "city": "São João Batista do Glória",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2291",
+    "city": "São João da Lagoa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2292",
+    "city": "São João da Mata",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2293",
+    "city": "São João da Ponte",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2294",
+    "city": "São João das Missões",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2295",
+    "city": "São João del Rei",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2296",
+    "city": "São João do Manhuaçu",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2297",
+    "city": "São João do Manteninha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2298",
+    "city": "São João do Oriente",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2299",
+    "city": "São João do Pacuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2300",
+    "city": "São João do Paraíso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2301",
+    "city": "São João Evangelista",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2302",
+    "city": "São João Nepomuceno",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2303",
+    "city": "São Joaquim de Bicas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2304",
+    "city": "São José da Barra",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2305",
+    "city": "São José da Lapa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2306",
+    "city": "São José da Safira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2307",
+    "city": "São José da Varginha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2308",
+    "city": "São José do Alegre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2309",
+    "city": "São José do Divino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2310",
+    "city": "São José do Goiabal",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2311",
+    "city": "São José do Jacuri",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2312",
+    "city": "São José do Mantimento",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2313",
+    "city": "São Lourenço",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2314",
+    "city": "São Miguel do Anta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2315",
+    "city": "São Pedro da União",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2316",
+    "city": "São Pedro do Suaçuí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2317",
+    "city": "São Pedro dos Ferros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2318",
+    "city": "São Romão",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2319",
+    "city": "São Roque de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2320",
+    "city": "São Sebastião da Bela Vista",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2321",
+    "city": "São Sebastião da Vargem Alegre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2322",
+    "city": "São Sebastião do Anta",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2323",
+    "city": "São Sebastião do Maranhão",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2324",
+    "city": "São Sebastião do Oeste",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2325",
+    "city": "São Sebastião do Paraíso",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2326",
+    "city": "São Sebastião do Rio Preto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2327",
+    "city": "São Sebastião do Rio Verde",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2328",
+    "city": "São Thomé das Letras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2329",
+    "city": "São Tiago",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2330",
+    "city": "São Tomás de Aquino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2331",
+    "city": "São Vicente de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2332",
+    "city": "Sapucaí-Mirim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2333",
+    "city": "Sardoá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2334",
+    "city": "Sarzedo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2335",
+    "city": "Sem-Peixe",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2336",
+    "city": "Senador Amaral",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2337",
+    "city": "Senador Cortes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2338",
+    "city": "Senador Firmino",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2339",
+    "city": "Senador José Bento",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2340",
+    "city": "Senador Modestino Gonçalves",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2341",
+    "city": "Senhora de Oliveira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2342",
+    "city": "Senhora do Porto",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2343",
+    "city": "Senhora dos Remédios",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2344",
+    "city": "Sericita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2345",
+    "city": "Seritinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2346",
+    "city": "Serra Azul de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2347",
+    "city": "Serra da Saudade",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2348",
+    "city": "Serra do Salitre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2349",
+    "city": "Serra dos Aimorés",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2350",
+    "city": "Serrania",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2351",
+    "city": "Serranópolis de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2352",
+    "city": "Serranos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2353",
+    "city": "Serro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2354",
+    "city": "Sete Lagoas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2355",
+    "city": "Setubinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2356",
+    "city": "Silveirânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2357",
+    "city": "Silvianópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2358",
+    "city": "Simão Pereira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2359",
+    "city": "Simonésia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2360",
+    "city": "Sobrália",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2361",
+    "city": "Soledade de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2362",
+    "city": "Tabuleiro",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2363",
+    "city": "Taiobeiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2364",
+    "city": "Taparuba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2365",
+    "city": "Tapira",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2366",
+    "city": "Tapiraí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2367",
+    "city": "Taquaraçu de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2368",
+    "city": "Tarumirim",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2369",
+    "city": "Teixeiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2370",
+    "city": "Teófilo Otoni",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2371",
+    "city": "Timóteo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2372",
+    "city": "Tiradentes",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2373",
+    "city": "Tiros",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2374",
+    "city": "Tocantins",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2375",
+    "city": "Tocos do Moji",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2376",
+    "city": "Toledo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2377",
+    "city": "Tombos",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2378",
+    "city": "Três Corações",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2379",
+    "city": "Três Marias",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2380",
+    "city": "Três Pontas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2381",
+    "city": "Tumiritinga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2382",
+    "city": "Tupaciguara",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2383",
+    "city": "Turmalina",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2384",
+    "city": "Turvolândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2385",
+    "city": "Ubá",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2386",
+    "city": "Ubaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2387",
+    "city": "Ubaporanga",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2388",
+    "city": "Uberaba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2389",
+    "city": "Uberlândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2390",
+    "city": "Umburatiba",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2391",
+    "city": "Unaí",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2392",
+    "city": "União de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2393",
+    "city": "Uruana de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2394",
+    "city": "Urucânia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2395",
+    "city": "Urucuia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2396",
+    "city": "Vargem Alegre",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2397",
+    "city": "Vargem Bonita",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2398",
+    "city": "Vargem Grande do Rio Pardo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2399",
+    "city": "Varginha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2400",
+    "city": "Varjão de Minas",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2401",
+    "city": "Várzea da Palma",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2402",
+    "city": "Varzelândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2403",
+    "city": "Vazante",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2404",
+    "city": "Verdelândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2405",
+    "city": "Veredinha",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2406",
+    "city": "Veríssimo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2407",
+    "city": "Vermelho Novo",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2408",
+    "city": "Vespasiano",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2409",
+    "city": "Viçosa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2410",
+    "city": "Vieiras",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2411",
+    "city": "Virgem da Lapa",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2412",
+    "city": "Virgínia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2413",
+    "city": "Virginópolis",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2414",
+    "city": "Virgolândia",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2415",
+    "city": "Visconde do Rio Branco",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2416",
+    "city": "Volta Grande",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "2417",
+    "city": "Wenceslau Braz",
+    "uf": "MG",
+    "state": "Minas Gerais"
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "id": "2418",
+    "city": "Abaetetuba",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2419",
+    "city": "Abel Figueiredo",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2420",
+    "city": "Acará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2421",
+    "city": "Afuá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2422",
+    "city": "Água Azul do Norte",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2423",
+    "city": "Alenquer",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2424",
+    "city": "Almeirim",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2425",
+    "city": "Altamira",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2426",
+    "city": "Anajás",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2427",
+    "city": "Ananindeua",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2428",
+    "city": "Anapu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2429",
+    "city": "Augusto Corrêa",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2430",
+    "city": "Aurora do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2431",
+    "city": "Aveiro",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2432",
+    "city": "Bagre",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2433",
+    "city": "Baião",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2434",
+    "city": "Bannach",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2435",
+    "city": "Barcarena",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2436",
+    "city": "Belém",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2437",
+    "city": "Belterra",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2438",
+    "city": "Benevides",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2439",
+    "city": "Bom Jesus do Tocantins",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2440",
+    "city": "Bonito",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2441",
+    "city": "Bragança",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2442",
+    "city": "Brasil Novo",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2443",
+    "city": "Brejo Grande do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2444",
+    "city": "Breu Branco",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2445",
+    "city": "Breves",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2446",
+    "city": "Bujaru",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2447",
+    "city": "Cachoeira do Arari",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2448",
+    "city": "Cachoeira do Piriá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2449",
+    "city": "Cametá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2450",
+    "city": "Canaã dos Carajás",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2451",
+    "city": "Capanema",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2452",
+    "city": "Capitão Poço",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2453",
+    "city": "Castanhal",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2454",
+    "city": "Chaves",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2455",
+    "city": "Colares",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2456",
+    "city": "Conceição do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2457",
+    "city": "Concórdia do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2458",
+    "city": "Cumaru do Norte",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2459",
+    "city": "Curionópolis",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2460",
+    "city": "Curralinho",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2461",
+    "city": "Curuá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2462",
+    "city": "Curuçá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2463",
+    "city": "Dom Eliseu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2464",
+    "city": "Eldorado dos Carajás",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2465",
+    "city": "Faro",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2466",
+    "city": "Floresta do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2467",
+    "city": "Garrafão do Norte",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2468",
+    "city": "Goianésia do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2469",
+    "city": "Gurupá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2470",
+    "city": "Igarapé-Açu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2471",
+    "city": "Igarapé-Miri",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2472",
+    "city": "Inhangapi",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2473",
+    "city": "Ipixuna do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2474",
+    "city": "Irituia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2475",
+    "city": "Itaituba",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2476",
+    "city": "Itupiranga",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2477",
+    "city": "Jacareacanga",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2478",
+    "city": "Jacundá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2479",
+    "city": "Juruti",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2480",
+    "city": "Limoeiro do Ajuru",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2481",
+    "city": "Mãe do Rio",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2482",
+    "city": "Magalhães Barata",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2483",
+    "city": "Marabá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2484",
+    "city": "Maracanã",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2485",
+    "city": "Marapanim",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2486",
+    "city": "Marituba",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2487",
+    "city": "Medicilândia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2488",
+    "city": "Melgaço",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2489",
+    "city": "Mocajuba",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2490",
+    "city": "Moju",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2491",
+    "city": "Monte Alegre",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2492",
+    "city": "Muaná",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2493",
+    "city": "Nova Esperança do Piriá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2494",
+    "city": "Nova Ipixuna",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2495",
+    "city": "Nova Timboteua",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2496",
+    "city": "Novo Progresso",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2497",
+    "city": "Novo Repartimento",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2498",
+    "city": "Óbidos",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2499",
+    "city": "Oeiras do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2500",
+    "city": "Oriximiná",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2501",
+    "city": "Ourém",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2502",
+    "city": "Ourilândia do Norte",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2503",
+    "city": "Pacajá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2504",
+    "city": "Palestina do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2505",
+    "city": "Paragominas",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2506",
+    "city": "Parauapebas",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2507",
+    "city": "Pau d`Arco",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2508",
+    "city": "Peixe-Boi",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2509",
+    "city": "Piçarra",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2510",
+    "city": "Placas",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2511",
+    "city": "Ponta de Pedras",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2512",
+    "city": "Portel",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2513",
+    "city": "Porto de Moz",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2514",
+    "city": "Prainha",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2515",
+    "city": "Primavera",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2516",
+    "city": "Quatipuru",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2517",
+    "city": "Redenção",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2518",
+    "city": "Rio Maria",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2519",
+    "city": "Rondon do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2520",
+    "city": "Rurópolis",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2521",
+    "city": "Salinópolis",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2522",
+    "city": "Salvaterra",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2523",
+    "city": "Santa Bárbara do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2524",
+    "city": "Santa Cruz do Arari",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2525",
+    "city": "Santa Isabel do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2526",
+    "city": "Santa Luzia do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2527",
+    "city": "Santa Maria das Barreiras",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2528",
+    "city": "Santa Maria do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2529",
+    "city": "Santana do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2530",
+    "city": "Santarém",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2531",
+    "city": "Santarém Novo",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2532",
+    "city": "Santo Antônio do Tauá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2533",
+    "city": "São Caetano de Odivelas",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2534",
+    "city": "São Domingos do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2535",
+    "city": "São Domingos do Capim",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2536",
+    "city": "São Félix do Xingu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2537",
+    "city": "São Francisco do Pará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2538",
+    "city": "São Geraldo do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2539",
+    "city": "São João da Ponta",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2540",
+    "city": "São João de Pirabas",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2541",
+    "city": "São João do Araguaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2542",
+    "city": "São Miguel do Guamá",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2543",
+    "city": "São Sebastião da Boa Vista",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2544",
+    "city": "Sapucaia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2545",
+    "city": "Senador José Porfírio",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2546",
+    "city": "Soure",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2547",
+    "city": "Tailândia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2548",
+    "city": "Terra Alta",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2549",
+    "city": "Terra Santa",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2550",
+    "city": "Tomé-Açu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2551",
+    "city": "Tracuateua",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2552",
+    "city": "Trairão",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2553",
+    "city": "Tucumã",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2554",
+    "city": "Tucuruí",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2555",
+    "city": "Ulianópolis",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2556",
+    "city": "Uruará",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2557",
+    "city": "Vigia",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2558",
+    "city": "Viseu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2559",
+    "city": "Vitória do Xingu",
+    "uf": "PA",
+    "state": "Pará"
+  },
+  {
+    "id": "2560",
+    "city": "Xinguara",
+    "uf": "PA",
+    "state": "Pará"
+  }
+]

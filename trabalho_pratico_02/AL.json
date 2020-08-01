@@ -1,0 +1,614 @@
+[
+  {
+    "id": "101",
+    "city": "Água Branca",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "102",
+    "city": "Anadia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "103",
+    "city": "Arapiraca",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "104",
+    "city": "Atalaia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "105",
+    "city": "Barra de Santo Antônio",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "106",
+    "city": "Barra de São Miguel",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "107",
+    "city": "Batalha",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "108",
+    "city": "Belém",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "109",
+    "city": "Belo Monte",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "110",
+    "city": "Boca da Mata",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "111",
+    "city": "Branquinha",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "112",
+    "city": "Cacimbinhas",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "113",
+    "city": "Cajueiro",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "114",
+    "city": "Campestre",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "115",
+    "city": "Campo Alegre",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "116",
+    "city": "Campo Grande",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "117",
+    "city": "Canapi",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "118",
+    "city": "Capela",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "119",
+    "city": "Carneiros",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "120",
+    "city": "Chã Preta",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "121",
+    "city": "Coité do Nóia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "122",
+    "city": "Colônia Leopoldina",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "123",
+    "city": "Coqueiro Seco",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "124",
+    "city": "Coruripe",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "125",
+    "city": "Craíbas",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "126",
+    "city": "Delmiro Gouveia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "127",
+    "city": "Dois Riachos",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "128",
+    "city": "Estrela de Alagoas",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "129",
+    "city": "Feira Grande",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "130",
+    "city": "Feliz Deserto",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "131",
+    "city": "Flexeiras",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "132",
+    "city": "Girau do Ponciano",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "133",
+    "city": "Ibateguara",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "134",
+    "city": "Igaci",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "135",
+    "city": "Igreja Nova",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "136",
+    "city": "Inhapi",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "137",
+    "city": "Jacaré dos Homens",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "138",
+    "city": "Jacuípe",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "139",
+    "city": "Japaratinga",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "140",
+    "city": "Jaramataia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "141",
+    "city": "Jequiá da Praia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "142",
+    "city": "Joaquim Gomes",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "143",
+    "city": "Jundiá",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "144",
+    "city": "Junqueiro",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "145",
+    "city": "Lagoa da Canoa",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "146",
+    "city": "Limoeiro de Anadia",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "147",
+    "city": "Maceió",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "148",
+    "city": "Major Isidoro",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "149",
+    "city": "Mar Vermelho",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "150",
+    "city": "Maragogi",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "151",
+    "city": "Maravilha",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "152",
+    "city": "Marechal Deodoro",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "153",
+    "city": "Maribondo",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "154",
+    "city": "Mata Grande",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "155",
+    "city": "Matriz de Camaragibe",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "156",
+    "city": "Messias",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "157",
+    "city": "Minador do Negrão",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "158",
+    "city": "Monteirópolis",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "159",
+    "city": "Murici",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "160",
+    "city": "Novo Lino",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "161",
+    "city": "Olho d`Água das Flores",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "162",
+    "city": "Olho d`Água do Casado",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "163",
+    "city": "Olho d`Água Grande",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "164",
+    "city": "Olivença",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "165",
+    "city": "Ouro Branco",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "166",
+    "city": "Palestina",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "167",
+    "city": "Palmeira dos Índios",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "168",
+    "city": "Pão de Açúcar",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "169",
+    "city": "Pariconha",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "170",
+    "city": "Paripueira",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "171",
+    "city": "Passo de Camaragibe",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "172",
+    "city": "Paulo Jacinto",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "173",
+    "city": "Penedo",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "174",
+    "city": "Piaçabuçu",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "175",
+    "city": "Pilar",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "176",
+    "city": "Pindoba",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "177",
+    "city": "Piranhas",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "178",
+    "city": "Poço das Trincheiras",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "179",
+    "city": "Porto Calvo",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "180",
+    "city": "Porto de Pedras",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "181",
+    "city": "Porto Real do Colégio",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "182",
+    "city": "Quebrangulo",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "183",
+    "city": "Rio Largo",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "184",
+    "city": "Roteiro",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "185",
+    "city": "Santa Luzia do Norte",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "186",
+    "city": "Santana do Ipanema",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "187",
+    "city": "Santana do Mundaú",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "188",
+    "city": "São Brás",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "189",
+    "city": "São José da Laje",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "190",
+    "city": "São José da Tapera",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "191",
+    "city": "São Luís do Quitunde",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "192",
+    "city": "São Miguel dos Campos",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "193",
+    "city": "São Miguel dos Milagres",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "194",
+    "city": "São Sebastião",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "195",
+    "city": "Satuba",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "196",
+    "city": "Senador Rui Palmeira",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "197",
+    "city": "Tanque d`Arca",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "198",
+    "city": "Taquarana",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "199",
+    "city": "Teotônio Vilela",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "200",
+    "city": "Traipu",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "201",
+    "city": "União dos Palmares",
+    "uf": "AL",
+    "state": "Alagoas"
+  },
+  {
+    "id": "202",
+    "city": "Viçosa",
+    "uf": "AL",
+    "state": "Alagoas"
+  }
+]

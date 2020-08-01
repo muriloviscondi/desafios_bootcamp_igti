@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "3683",
+    "city": "Acari",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3684",
+    "city": "Açu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3685",
+    "city": "Afonso Bezerra",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3686",
+    "city": "Água Nova",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3687",
+    "city": "Alexandria",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3688",
+    "city": "Almino Afonso",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3689",
+    "city": "Alto do Rodrigues",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3690",
+    "city": "Angicos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3691",
+    "city": "Antônio Martins",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3692",
+    "city": "Apodi",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3693",
+    "city": "Areia Branca",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3694",
+    "city": "Arês",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3695",
+    "city": "Augusto Severo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3696",
+    "city": "Baía Formosa",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3697",
+    "city": "Baraúna",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3698",
+    "city": "Barcelona",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3699",
+    "city": "Bento Fernandes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3700",
+    "city": "Bodó",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3701",
+    "city": "Bom Jesus",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3702",
+    "city": "Brejinho",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3703",
+    "city": "Caiçara do Norte",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3704",
+    "city": "Caiçara do Rio do Vento",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3705",
+    "city": "Caicó",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3706",
+    "city": "Campo Redondo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3707",
+    "city": "Canguaretama",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3708",
+    "city": "Caraúbas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3709",
+    "city": "Carnaúba dos Dantas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3710",
+    "city": "Carnaubais",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3711",
+    "city": "Ceará-Mirim",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3712",
+    "city": "Cerro Corá",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3713",
+    "city": "Coronel Ezequiel",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3714",
+    "city": "Coronel João Pessoa",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3715",
+    "city": "Cruzeta",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3716",
+    "city": "Currais Novos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3717",
+    "city": "Doutor Severiano",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3718",
+    "city": "Encanto",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3719",
+    "city": "Equador",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3720",
+    "city": "Espírito Santo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3721",
+    "city": "Extremoz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3722",
+    "city": "Felipe Guerra",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3723",
+    "city": "Fernando Pedroza",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3724",
+    "city": "Florânia",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3725",
+    "city": "Francisco Dantas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3726",
+    "city": "Frutuoso Gomes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3727",
+    "city": "Galinhos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3728",
+    "city": "Goianinha",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3729",
+    "city": "Governador Dix-Sept Rosado",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3730",
+    "city": "Grossos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3731",
+    "city": "Guamaré",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3732",
+    "city": "Ielmo Marinho",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3733",
+    "city": "Ipanguaçu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3734",
+    "city": "Ipueira",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3735",
+    "city": "Itajá",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3736",
+    "city": "Itaú",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3737",
+    "city": "Jaçanã",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3738",
+    "city": "Jandaíra",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3739",
+    "city": "Janduís",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3740",
+    "city": "Januário Cicco",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3741",
+    "city": "Japi",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3742",
+    "city": "Jardim de Angicos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3743",
+    "city": "Jardim de Piranhas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3744",
+    "city": "Jardim do Seridó",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3745",
+    "city": "João Câmara",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3746",
+    "city": "João Dias",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3747",
+    "city": "José da Penha",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3748",
+    "city": "Jucurutu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3749",
+    "city": "Jundiá",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3750",
+    "city": "Lagoa d`Anta",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3751",
+    "city": "Lagoa de Pedras",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3752",
+    "city": "Lagoa de Velhos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3753",
+    "city": "Lagoa Nova",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3754",
+    "city": "Lagoa Salgada",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3755",
+    "city": "Lajes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3756",
+    "city": "Lajes Pintadas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3757",
+    "city": "Lucrécia",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3758",
+    "city": "Luís Gomes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3759",
+    "city": "Macaíba",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3760",
+    "city": "Macau",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3761",
+    "city": "Major Sales",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3762",
+    "city": "Marcelino Vieira",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3763",
+    "city": "Martins",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3764",
+    "city": "Maxaranguape",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3765",
+    "city": "Messias Targino",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3766",
+    "city": "Montanhas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3767",
+    "city": "Monte Alegre",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3768",
+    "city": "Monte das Gameleiras",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3769",
+    "city": "Mossoró",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3770",
+    "city": "Natal",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3771",
+    "city": "Nísia Floresta",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3772",
+    "city": "Nova Cruz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3773",
+    "city": "Olho-d`Água do Borges",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3774",
+    "city": "Ouro Branco",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3775",
+    "city": "Paraná",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3776",
+    "city": "Paraú",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3777",
+    "city": "Parazinho",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3778",
+    "city": "Parelhas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3779",
+    "city": "Parnamirim",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3780",
+    "city": "Passa e Fica",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3781",
+    "city": "Passagem",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3782",
+    "city": "Patu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3783",
+    "city": "Pau dos Ferros",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3784",
+    "city": "Pedra Grande",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3785",
+    "city": "Pedra Preta",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3786",
+    "city": "Pedro Avelino",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3787",
+    "city": "Pedro Velho",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3788",
+    "city": "Pendências",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3789",
+    "city": "Pilões",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3790",
+    "city": "Poço Branco",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3791",
+    "city": "Portalegre",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3792",
+    "city": "Porto do Mangue",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3793",
+    "city": "Presidente Juscelino",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3794",
+    "city": "Pureza",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3795",
+    "city": "Rafael Fernandes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3796",
+    "city": "Rafael Godeiro",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3797",
+    "city": "Riacho da Cruz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3798",
+    "city": "Riacho de Santana",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3799",
+    "city": "Riachuelo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3800",
+    "city": "Rio do Fogo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3801",
+    "city": "Rodolfo Fernandes",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3802",
+    "city": "Ruy Barbosa",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3803",
+    "city": "Santa Cruz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3804",
+    "city": "Santa Maria",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3805",
+    "city": "Santana do Matos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3806",
+    "city": "Santana do Seridó",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3807",
+    "city": "Santo Antônio",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3808",
+    "city": "São Bento do Norte",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3809",
+    "city": "São Bento do Trairí",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3810",
+    "city": "São Fernando",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3811",
+    "city": "São Francisco do Oeste",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3812",
+    "city": "São Gonçalo do Amarante",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3813",
+    "city": "São João do Sabugi",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3814",
+    "city": "São José de Mipibu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3815",
+    "city": "São José do Campestre",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3816",
+    "city": "São José do Seridó",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3817",
+    "city": "São Miguel",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3818",
+    "city": "São Miguel do Gostoso",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3819",
+    "city": "São Paulo do Potengi",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3820",
+    "city": "São Pedro",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3821",
+    "city": "São Rafael",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3822",
+    "city": "São Tomé",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3823",
+    "city": "São Vicente",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3824",
+    "city": "Senador Elói de Souza",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3825",
+    "city": "Senador Georgino Avelino",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3826",
+    "city": "Serra de São Bento",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3827",
+    "city": "Serra do Mel",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3828",
+    "city": "Serra Negra do Norte",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3829",
+    "city": "Serrinha",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3830",
+    "city": "Serrinha dos Pintos",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3831",
+    "city": "Severiano Melo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3832",
+    "city": "Sítio Novo",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3833",
+    "city": "Taboleiro Grande",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3834",
+    "city": "Taipu",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3835",
+    "city": "Tangará",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3836",
+    "city": "Tenente Ananias",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3837",
+    "city": "Tenente Laurentino Cruz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3838",
+    "city": "Tibau",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3839",
+    "city": "Tibau do Sul",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3840",
+    "city": "Timbaúba dos Batistas",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3841",
+    "city": "Touros",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3842",
+    "city": "Triunfo Potiguar",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3843",
+    "city": "Umarizal",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3844",
+    "city": "Upanema",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3845",
+    "city": "Várzea",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3846",
+    "city": "Venha-Ver",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3847",
+    "city": "Vera Cruz",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3848",
+    "city": "Viçosa",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  },
+  {
+    "id": "3849",
+    "city": "Vila Flor",
+    "uf": "RN",
+    "state": "Rio Grande do Norte"
+  }
+]

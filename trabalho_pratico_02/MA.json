@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "1129",
+    "city": "Açailândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1130",
+    "city": "Afonso Cunha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1131",
+    "city": "Água Doce do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1132",
+    "city": "Alcântara",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1133",
+    "city": "Aldeias Altas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1134",
+    "city": "Altamira do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1135",
+    "city": "Alto Alegre do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1136",
+    "city": "Alto Alegre do Pindaré",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1137",
+    "city": "Alto Parnaíba",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1138",
+    "city": "Amapá do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1139",
+    "city": "Amarante do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1140",
+    "city": "Anajatuba",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1141",
+    "city": "Anapurus",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1142",
+    "city": "Apicum-Açu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1143",
+    "city": "Araguanã",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1144",
+    "city": "Araioses",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1145",
+    "city": "Arame",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1146",
+    "city": "Arari",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1147",
+    "city": "Axixá",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1148",
+    "city": "Bacabal",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1149",
+    "city": "Bacabeira",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1150",
+    "city": "Bacuri",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1151",
+    "city": "Bacurituba",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1152",
+    "city": "Balsas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1153",
+    "city": "Barão de Grajaú",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1154",
+    "city": "Barra do Corda",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1155",
+    "city": "Barreirinhas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1156",
+    "city": "Bela Vista do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1157",
+    "city": "Belágua",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1158",
+    "city": "Benedito Leite",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1159",
+    "city": "Bequimão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1160",
+    "city": "Bernardo do Mearim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1161",
+    "city": "Boa Vista do Gurupi",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1162",
+    "city": "Bom Jardim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1163",
+    "city": "Bom Jesus das Selvas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1164",
+    "city": "Bom Lugar",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1165",
+    "city": "Brejo",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1166",
+    "city": "Brejo de Areia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1167",
+    "city": "Buriti",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1168",
+    "city": "Buriti Bravo",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1169",
+    "city": "Buriticupu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1170",
+    "city": "Buritirana",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1171",
+    "city": "Cachoeira Grande",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1172",
+    "city": "Cajapió",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1173",
+    "city": "Cajari",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1174",
+    "city": "Campestre do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1175",
+    "city": "Cândido Mendes",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1176",
+    "city": "Cantanhede",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1177",
+    "city": "Capinzal do Norte",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1178",
+    "city": "Carolina",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1179",
+    "city": "Carutapera",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1180",
+    "city": "Caxias",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1181",
+    "city": "Cedral",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1182",
+    "city": "Central do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1183",
+    "city": "Centro do Guilherme",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1184",
+    "city": "Centro Novo do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1185",
+    "city": "Chapadinha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1186",
+    "city": "Cidelândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1187",
+    "city": "Codó",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1188",
+    "city": "Coelho Neto",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1189",
+    "city": "Colinas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1190",
+    "city": "Conceição do Lago-Açu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1191",
+    "city": "Coroatá",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1192",
+    "city": "Cururupu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1193",
+    "city": "Davinópolis",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1194",
+    "city": "Dom Pedro",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1195",
+    "city": "Duque Bacelar",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1196",
+    "city": "Esperantinópolis",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1197",
+    "city": "Estreito",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1198",
+    "city": "Feira Nova do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1199",
+    "city": "Fernando Falcão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1200",
+    "city": "Formosa da Serra Negra",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1201",
+    "city": "Fortaleza dos Nogueiras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1202",
+    "city": "Fortuna",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1203",
+    "city": "Godofredo Viana",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1204",
+    "city": "Gonçalves Dias",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1205",
+    "city": "Governador Archer",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1206",
+    "city": "Governador Edison Lobão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1207",
+    "city": "Governador Eugênio Barros",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1208",
+    "city": "Governador Luiz Rocha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1209",
+    "city": "Governador Newton Bello",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1210",
+    "city": "Governador Nunes Freire",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1211",
+    "city": "Graça Aranha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1212",
+    "city": "Grajaú",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1213",
+    "city": "Guimarães",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1214",
+    "city": "Humberto de Campos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1215",
+    "city": "Icatu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1216",
+    "city": "Igarapé do Meio",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1217",
+    "city": "Igarapé Grande",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1218",
+    "city": "Imperatriz",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1219",
+    "city": "Itaipava do Grajaú",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1220",
+    "city": "Itapecuru Mirim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1221",
+    "city": "Itinga do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1222",
+    "city": "Jatobá",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1223",
+    "city": "Jenipapo dos Vieiras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1224",
+    "city": "João Lisboa",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1225",
+    "city": "Joselândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1226",
+    "city": "Junco do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1227",
+    "city": "Lago da Pedra",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1228",
+    "city": "Lago do Junco",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1229",
+    "city": "Lago dos Rodrigues",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1230",
+    "city": "Lago Verde",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1231",
+    "city": "Lagoa do Mato",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1232",
+    "city": "Lagoa Grande do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1233",
+    "city": "Lajeado Novo",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1234",
+    "city": "Lima Campos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1235",
+    "city": "Loreto",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1236",
+    "city": "Luís Domingues",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1237",
+    "city": "Magalhães de Almeida",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1238",
+    "city": "Maracaçumé",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1239",
+    "city": "Marajá do Sena",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1240",
+    "city": "Maranhãozinho",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1241",
+    "city": "Mata Roma",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1242",
+    "city": "Matinha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1243",
+    "city": "Matões",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1244",
+    "city": "Matões do Norte",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1245",
+    "city": "Milagres do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1246",
+    "city": "Mirador",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1247",
+    "city": "Miranda do Norte",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1248",
+    "city": "Mirinzal",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1249",
+    "city": "Monção",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1250",
+    "city": "Montes Altos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1251",
+    "city": "Morros",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1252",
+    "city": "Nina Rodrigues",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1253",
+    "city": "Nova Colinas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1254",
+    "city": "Nova Iorque",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1255",
+    "city": "Nova Olinda do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1256",
+    "city": "Olho d`Água das Cunhãs",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1257",
+    "city": "Olinda Nova do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1258",
+    "city": "Paço do Lumiar",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1259",
+    "city": "Palmeirândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1260",
+    "city": "Paraibano",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1261",
+    "city": "Parnarama",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1262",
+    "city": "Passagem Franca",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1263",
+    "city": "Pastos Bons",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1264",
+    "city": "Paulino Neves",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1265",
+    "city": "Paulo Ramos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1266",
+    "city": "Pedreiras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1267",
+    "city": "Pedro do Rosário",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1268",
+    "city": "Penalva",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1269",
+    "city": "Peri Mirim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1270",
+    "city": "Peritoró",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1271",
+    "city": "Pindaré-Mirim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1272",
+    "city": "Pinheiro",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1273",
+    "city": "Pio XII",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1274",
+    "city": "Pirapemas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1275",
+    "city": "Poção de Pedras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1276",
+    "city": "Porto Franco",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1277",
+    "city": "Porto Rico do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1278",
+    "city": "Presidente Dutra",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1279",
+    "city": "Presidente Juscelino",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1280",
+    "city": "Presidente Médici",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1281",
+    "city": "Presidente Sarney",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1282",
+    "city": "Presidente Vargas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1283",
+    "city": "Primeira Cruz",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1284",
+    "city": "Raposa",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1285",
+    "city": "Riachão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1286",
+    "city": "Ribamar Fiquene",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1287",
+    "city": "Rosário",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1288",
+    "city": "Sambaíba",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1289",
+    "city": "Santa Filomena do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1290",
+    "city": "Santa Helena",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1291",
+    "city": "Santa Inês",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1292",
+    "city": "Santa Luzia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1293",
+    "city": "Santa Luzia do Paruá",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1294",
+    "city": "Santa Quitéria do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1295",
+    "city": "Santa Rita",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1296",
+    "city": "Santana do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1297",
+    "city": "Santo Amaro do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1298",
+    "city": "Santo Antônio dos Lopes",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1299",
+    "city": "São Benedito do Rio Preto",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1300",
+    "city": "São Bento",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1301",
+    "city": "São Bernardo",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1302",
+    "city": "São Domingos do Azeitão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1303",
+    "city": "São Domingos do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1304",
+    "city": "São Félix de Balsas",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1305",
+    "city": "São Francisco do Brejão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1306",
+    "city": "São Francisco do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1307",
+    "city": "São João Batista",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1308",
+    "city": "São João do Carú",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1309",
+    "city": "São João do Paraíso",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1310",
+    "city": "São João do Soter",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1311",
+    "city": "São João dos Patos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1312",
+    "city": "São José de Ribamar",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1313",
+    "city": "São José dos Basílios",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1314",
+    "city": "São Luís",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1315",
+    "city": "São Luís Gonzaga do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1316",
+    "city": "São Mateus do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1317",
+    "city": "São Pedro da Água Branca",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1318",
+    "city": "São Pedro dos Crentes",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1319",
+    "city": "São Raimundo das Mangabeiras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1320",
+    "city": "São Raimundo do Doca Bezerra",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1321",
+    "city": "São Roberto",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1322",
+    "city": "São Vicente Ferrer",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1323",
+    "city": "Satubinha",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1324",
+    "city": "Senador Alexandre Costa",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1325",
+    "city": "Senador La Rocque",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1326",
+    "city": "Serrano do Maranhão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1327",
+    "city": "Sítio Novo",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1328",
+    "city": "Sucupira do Norte",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1329",
+    "city": "Sucupira do Riachão",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1330",
+    "city": "Tasso Fragoso",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1331",
+    "city": "Timbiras",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1332",
+    "city": "Timon",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1333",
+    "city": "Trizidela do Vale",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1334",
+    "city": "Tufilândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1335",
+    "city": "Tuntum",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1336",
+    "city": "Turiaçu",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1337",
+    "city": "Turilândia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1338",
+    "city": "Tutóia",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1339",
+    "city": "Urbano Santos",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1340",
+    "city": "Vargem Grande",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1341",
+    "city": "Viana",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1342",
+    "city": "Vila Nova dos Martírios",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1343",
+    "city": "Vitória do Mearim",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1344",
+    "city": "Vitorino Freire",
+    "uf": "MA",
+    "state": "Maranhão"
+  },
+  {
+    "id": "1345",
+    "city": "Zé Doca",
+    "uf": "MA",
+    "state": "Maranhão"
+  }
+]

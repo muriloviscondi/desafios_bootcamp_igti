@@ -1,0 +1,314 @@
+[
+  {
+    "id": "4346",
+    "city": "Alta Floresta d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4347",
+    "city": "Alto Alegre dos Parecis",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4348",
+    "city": "Alto Paraíso",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4349",
+    "city": "Alvorada d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4350",
+    "city": "Ariquemes",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4351",
+    "city": "Buritis",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4352",
+    "city": "Cabixi",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4353",
+    "city": "Cacaulândia",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4354",
+    "city": "Cacoal",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4355",
+    "city": "Campo Novo de Rondônia",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4356",
+    "city": "Candeias do Jamari",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4357",
+    "city": "Castanheiras",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4358",
+    "city": "Cerejeiras",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4359",
+    "city": "Chupinguaia",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4360",
+    "city": "Colorado do Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4361",
+    "city": "Corumbiara",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4362",
+    "city": "Costa Marques",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4363",
+    "city": "Cujubim",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4364",
+    "city": "Espigão d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4365",
+    "city": "Governador Jorge Teixeira",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4366",
+    "city": "Guajará-Mirim",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4367",
+    "city": "Itapuã do Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4368",
+    "city": "Jaru",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4369",
+    "city": "Ji-Paraná",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4370",
+    "city": "Machadinho d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4371",
+    "city": "Ministro Andreazza",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4372",
+    "city": "Mirante da Serra",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4373",
+    "city": "Monte Negro",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4374",
+    "city": "Nova Brasilândia d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4375",
+    "city": "Nova Mamoré",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4376",
+    "city": "Nova União",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4377",
+    "city": "Novo Horizonte do Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4378",
+    "city": "Ouro Preto do Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4379",
+    "city": "Parecis",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4380",
+    "city": "Pimenta Bueno",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4381",
+    "city": "Pimenteiras do Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4382",
+    "city": "Porto Velho",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4383",
+    "city": "Presidente Médici",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4384",
+    "city": "Primavera de Rondônia",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4385",
+    "city": "Rio Crespo",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4386",
+    "city": "Rolim de Moura",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4387",
+    "city": "Santa Luzia d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4388",
+    "city": "São Felipe d`Oeste",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4389",
+    "city": "São Francisco do Guaporé",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4390",
+    "city": "São Miguel do Guaporé",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4391",
+    "city": "Seringueiras",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4392",
+    "city": "Teixeirópolis",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4393",
+    "city": "Theobroma",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4394",
+    "city": "Urupá",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4395",
+    "city": "Vale do Anari",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4396",
+    "city": "Vale do Paraíso",
+    "uf": "RO",
+    "state": "Rondônia"
+  },
+  {
+    "id": "4397",
+    "city": "Vilhena",
+    "uf": "RO",
+    "state": "Rondônia"
+  }
+]

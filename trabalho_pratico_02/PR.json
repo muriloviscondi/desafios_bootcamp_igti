@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "2784",
+    "city": "Abatiá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2785",
+    "city": "Adrianópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2786",
+    "city": "Agudos do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2787",
+    "city": "Almirante Tamandaré",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2788",
+    "city": "Altamira do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2789",
+    "city": "Alto Paraíso",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2790",
+    "city": "Alto Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2791",
+    "city": "Alto Piquiri",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2792",
+    "city": "Altônia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2793",
+    "city": "Alvorada do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2794",
+    "city": "Amaporã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2795",
+    "city": "Ampére",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2796",
+    "city": "Anahy",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2797",
+    "city": "Andirá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2798",
+    "city": "Ângulo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2799",
+    "city": "Antonina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2800",
+    "city": "Antônio Olinto",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2801",
+    "city": "Apucarana",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2802",
+    "city": "Arapongas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2803",
+    "city": "Arapoti",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2804",
+    "city": "Arapuã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2805",
+    "city": "Araruna",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2806",
+    "city": "Araucária",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2807",
+    "city": "Ariranha do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2808",
+    "city": "Assaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2809",
+    "city": "Assis Chateaubriand",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2810",
+    "city": "Astorga",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2811",
+    "city": "Atalaia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2812",
+    "city": "Balsa Nova",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2813",
+    "city": "Bandeirantes",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2814",
+    "city": "Barbosa Ferraz",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2815",
+    "city": "Barra do Jacaré",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2816",
+    "city": "Barracão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2817",
+    "city": "Bela Vista da Caroba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2818",
+    "city": "Bela Vista do Paraíso",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2819",
+    "city": "Bituruna",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2820",
+    "city": "Boa Esperança",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2821",
+    "city": "Boa Esperança do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2822",
+    "city": "Boa Ventura de São Roque",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2823",
+    "city": "Boa Vista da Aparecida",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2824",
+    "city": "Bocaiúva do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2825",
+    "city": "Bom Jesus do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2826",
+    "city": "Bom Sucesso",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2827",
+    "city": "Bom Sucesso do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2828",
+    "city": "Borrazópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2829",
+    "city": "Braganey",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2830",
+    "city": "Brasilândia do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2831",
+    "city": "Cafeara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2832",
+    "city": "Cafelândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2833",
+    "city": "Cafezal do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2834",
+    "city": "Califórnia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2835",
+    "city": "Cambará",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2836",
+    "city": "Cambé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2837",
+    "city": "Cambira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2838",
+    "city": "Campina da Lagoa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2839",
+    "city": "Campina do Simão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2840",
+    "city": "Campina Grande do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2841",
+    "city": "Campo Bonito",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2842",
+    "city": "Campo do Tenente",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2843",
+    "city": "Campo Largo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2844",
+    "city": "Campo Magro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2845",
+    "city": "Campo Mourão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2846",
+    "city": "Cândido de Abreu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2847",
+    "city": "Candói",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2848",
+    "city": "Cantagalo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2849",
+    "city": "Capanema",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2850",
+    "city": "Capitão Leônidas Marques",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2851",
+    "city": "Carambeí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2852",
+    "city": "Carlópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2853",
+    "city": "Cascavel",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2854",
+    "city": "Castro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2855",
+    "city": "Catanduvas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2856",
+    "city": "Centenário do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2857",
+    "city": "Cerro Azul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2858",
+    "city": "Céu Azul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2859",
+    "city": "Chopinzinho",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2860",
+    "city": "Cianorte",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2861",
+    "city": "Cidade Gaúcha",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2862",
+    "city": "Clevelândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2863",
+    "city": "Colombo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2864",
+    "city": "Colorado",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2865",
+    "city": "Congonhinhas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2866",
+    "city": "Conselheiro Mairinck",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2867",
+    "city": "Contenda",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2868",
+    "city": "Corbélia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2869",
+    "city": "Cornélio Procópio",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2870",
+    "city": "Coronel Domingos Soares",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2871",
+    "city": "Coronel Vivida",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2872",
+    "city": "Corumbataí do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2873",
+    "city": "Cruz Machado",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2874",
+    "city": "Cruzeiro do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2875",
+    "city": "Cruzeiro do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2876",
+    "city": "Cruzeiro do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2877",
+    "city": "Cruzmaltina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2878",
+    "city": "Curitiba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2879",
+    "city": "Curiúva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2880",
+    "city": "Diamante d`Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2881",
+    "city": "Diamante do Norte",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2882",
+    "city": "Diamante do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2883",
+    "city": "Dois Vizinhos",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2884",
+    "city": "Douradina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2885",
+    "city": "Doutor Camargo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2886",
+    "city": "Doutor Ulysses",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2887",
+    "city": "Enéas Marques",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2888",
+    "city": "Engenheiro Beltrão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2889",
+    "city": "Entre Rios do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2890",
+    "city": "Esperança Nova",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2891",
+    "city": "Espigão Alto do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2892",
+    "city": "Farol",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2893",
+    "city": "Faxinal",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2894",
+    "city": "Fazenda Rio Grande",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2895",
+    "city": "Fênix",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2896",
+    "city": "Fernandes Pinheiro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2897",
+    "city": "Figueira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2898",
+    "city": "Flor da Serra do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2899",
+    "city": "Floraí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2900",
+    "city": "Floresta",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2901",
+    "city": "Florestópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2902",
+    "city": "Flórida",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2903",
+    "city": "Formosa do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2904",
+    "city": "Foz do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2905",
+    "city": "Foz do Jordão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2906",
+    "city": "Francisco Alves",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2907",
+    "city": "Francisco Beltrão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2908",
+    "city": "General Carneiro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2909",
+    "city": "Godoy Moreira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2910",
+    "city": "Goioerê",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2911",
+    "city": "Goioxim",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2912",
+    "city": "Grandes Rios",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2913",
+    "city": "Guaíra",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2914",
+    "city": "Guairaçá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2915",
+    "city": "Guamiranga",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2916",
+    "city": "Guapirama",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2917",
+    "city": "Guaporema",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2918",
+    "city": "Guaraci",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2919",
+    "city": "Guaraniaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2920",
+    "city": "Guarapuava",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2921",
+    "city": "Guaraqueçaba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2922",
+    "city": "Guaratuba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2923",
+    "city": "Honório Serpa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2924",
+    "city": "Ibaiti",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2925",
+    "city": "Ibema",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2926",
+    "city": "Ibiporã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2927",
+    "city": "Icaraíma",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2928",
+    "city": "Iguaraçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2929",
+    "city": "Iguatu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2930",
+    "city": "Imbaú",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2931",
+    "city": "Imbituva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2932",
+    "city": "Inácio Martins",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2933",
+    "city": "Inajá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2934",
+    "city": "Indianópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2935",
+    "city": "Ipiranga",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2936",
+    "city": "Iporã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2937",
+    "city": "Iracema do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2938",
+    "city": "Irati",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2939",
+    "city": "Iretama",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2940",
+    "city": "Itaguajé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2941",
+    "city": "Itaipulândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2942",
+    "city": "Itambaracá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2943",
+    "city": "Itambé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2944",
+    "city": "Itapejara d`Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2945",
+    "city": "Itaperuçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2946",
+    "city": "Itaúna do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2947",
+    "city": "Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2948",
+    "city": "Ivaiporã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2949",
+    "city": "Ivaté",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2950",
+    "city": "Ivatuba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2951",
+    "city": "Jaboti",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2952",
+    "city": "Jacarezinho",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2953",
+    "city": "Jaguapitã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2954",
+    "city": "Jaguariaíva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2955",
+    "city": "Jandaia do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2956",
+    "city": "Janiópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2957",
+    "city": "Japira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2958",
+    "city": "Japurá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2959",
+    "city": "Jardim Alegre",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2960",
+    "city": "Jardim Olinda",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2961",
+    "city": "Jataizinho",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2962",
+    "city": "Jesuítas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2963",
+    "city": "Joaquim Távora",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2964",
+    "city": "Jundiaí do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2965",
+    "city": "Juranda",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2966",
+    "city": "Jussara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2967",
+    "city": "Kaloré",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2968",
+    "city": "Lapa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2969",
+    "city": "Laranjal",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2970",
+    "city": "Laranjeiras do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2971",
+    "city": "Leópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2972",
+    "city": "Lidianópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2973",
+    "city": "Lindoeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2974",
+    "city": "Loanda",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2975",
+    "city": "Lobato",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2976",
+    "city": "Londrina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2977",
+    "city": "Luiziana",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2978",
+    "city": "Lunardelli",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2979",
+    "city": "Lupionópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2980",
+    "city": "Mallet",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2981",
+    "city": "Mamborê",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2982",
+    "city": "Mandaguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2983",
+    "city": "Mandaguari",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2984",
+    "city": "Mandirituba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2985",
+    "city": "Manfrinópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2986",
+    "city": "Mangueirinha",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2987",
+    "city": "Manoel Ribas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2988",
+    "city": "Marechal Cândido Rondon",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2989",
+    "city": "Maria Helena",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2990",
+    "city": "Marialva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2991",
+    "city": "Marilândia do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2992",
+    "city": "Marilena",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2993",
+    "city": "Mariluz",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2994",
+    "city": "Maringá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2995",
+    "city": "Mariópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2996",
+    "city": "Maripá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2997",
+    "city": "Marmeleiro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2998",
+    "city": "Marquinho",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "2999",
+    "city": "Marumbi",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3000",
+    "city": "Matelândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3001",
+    "city": "Matinhos",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3002",
+    "city": "Mato Rico",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3003",
+    "city": "Mauá da Serra",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3004",
+    "city": "Medianeira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3005",
+    "city": "Mercedes",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3006",
+    "city": "Mirador",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3007",
+    "city": "Miraselva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3008",
+    "city": "Missal",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3009",
+    "city": "Moreira Sales",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3010",
+    "city": "Morretes",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3011",
+    "city": "Munhoz de Melo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3012",
+    "city": "Nossa Senhora das Graças",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3013",
+    "city": "Nova Aliança do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3014",
+    "city": "Nova América da Colina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3015",
+    "city": "Nova Aurora",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3016",
+    "city": "Nova Cantu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3017",
+    "city": "Nova Esperança",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3018",
+    "city": "Nova Esperança do Sudoeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3019",
+    "city": "Nova Fátima",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3020",
+    "city": "Nova Laranjeiras",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3021",
+    "city": "Nova Londrina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3022",
+    "city": "Nova Olímpia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3023",
+    "city": "Nova Prata do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3024",
+    "city": "Nova Santa Bárbara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3025",
+    "city": "Nova Santa Rosa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3026",
+    "city": "Nova Tebas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3027",
+    "city": "Novo Itacolomi",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3028",
+    "city": "Ortigueira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3029",
+    "city": "Ourizona",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3030",
+    "city": "Ouro Verde do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3031",
+    "city": "Paiçandu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3032",
+    "city": "Palmas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3033",
+    "city": "Palmeira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3034",
+    "city": "Palmital",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3035",
+    "city": "Palotina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3036",
+    "city": "Paraíso do Norte",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3037",
+    "city": "Paranacity",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3038",
+    "city": "Paranaguá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3039",
+    "city": "Paranapoema",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3040",
+    "city": "Paranavaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3041",
+    "city": "Pato Bragado",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3042",
+    "city": "Pato Branco",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3043",
+    "city": "Paula Freitas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3044",
+    "city": "Paulo Frontin",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3045",
+    "city": "Peabiru",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3046",
+    "city": "Perobal",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3047",
+    "city": "Pérola",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3048",
+    "city": "Pérola d`Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3049",
+    "city": "Piên",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3050",
+    "city": "Pinhais",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3051",
+    "city": "Pinhal de São Bento",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3052",
+    "city": "Pinhalão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3053",
+    "city": "Pinhão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3054",
+    "city": "Piraí do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3055",
+    "city": "Piraquara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3056",
+    "city": "Pitanga",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3057",
+    "city": "Pitangueiras",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3058",
+    "city": "Planaltina do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3059",
+    "city": "Planalto",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3060",
+    "city": "Ponta Grossa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3061",
+    "city": "Pontal do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3062",
+    "city": "Porecatu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3063",
+    "city": "Porto Amazonas",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3064",
+    "city": "Porto Barreiro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3065",
+    "city": "Porto Rico",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3066",
+    "city": "Porto Vitória",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3067",
+    "city": "Prado Ferreira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3068",
+    "city": "Pranchita",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3069",
+    "city": "Presidente Castelo Branco",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3070",
+    "city": "Primeiro de Maio",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3071",
+    "city": "Prudentópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3072",
+    "city": "Quarto Centenário",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3073",
+    "city": "Quatiguá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3074",
+    "city": "Quatro Barras",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3075",
+    "city": "Quatro Pontes",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3076",
+    "city": "Quedas do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3077",
+    "city": "Querência do Norte",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3078",
+    "city": "Quinta do Sol",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3079",
+    "city": "Quitandinha",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3080",
+    "city": "Ramilândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3081",
+    "city": "Rancho Alegre",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3082",
+    "city": "Rancho Alegre d`Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3083",
+    "city": "Realeza",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3084",
+    "city": "Rebouças",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3085",
+    "city": "Renascença",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3086",
+    "city": "Reserva",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3087",
+    "city": "Reserva do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3088",
+    "city": "Ribeirão Claro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3089",
+    "city": "Ribeirão do Pinhal",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3090",
+    "city": "Rio Azul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3091",
+    "city": "Rio Bom",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3092",
+    "city": "Rio Bonito do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3093",
+    "city": "Rio Branco do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3094",
+    "city": "Rio Branco do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3095",
+    "city": "Rio Negro",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3096",
+    "city": "Rolândia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3097",
+    "city": "Roncador",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3098",
+    "city": "Rondon",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3099",
+    "city": "Rosário do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3100",
+    "city": "Sabáudia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3101",
+    "city": "Salgado Filho",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3102",
+    "city": "Salto do Itararé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3103",
+    "city": "Salto do Lontra",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3104",
+    "city": "Santa Amélia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3105",
+    "city": "Santa Cecília do Pavão",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3106",
+    "city": "Santa Cruz de Monte Castelo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3107",
+    "city": "Santa Fé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3108",
+    "city": "Santa Helena",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3109",
+    "city": "Santa Inês",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3110",
+    "city": "Santa Isabel do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3111",
+    "city": "Santa Izabel do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3112",
+    "city": "Santa Lúcia",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3113",
+    "city": "Santa Maria do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3114",
+    "city": "Santa Mariana",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3115",
+    "city": "Santa Mônica",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3116",
+    "city": "Santa Tereza do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3117",
+    "city": "Santa Terezinha de Itaipu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3118",
+    "city": "Santana do Itararé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3119",
+    "city": "Santo Antônio da Platina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3120",
+    "city": "Santo Antônio do Caiuá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3121",
+    "city": "Santo Antônio do Paraíso",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3122",
+    "city": "Santo Antônio do Sudoeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3123",
+    "city": "Santo Inácio",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3124",
+    "city": "São Carlos do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3125",
+    "city": "São Jerônimo da Serra",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3126",
+    "city": "São João",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3127",
+    "city": "São João do Caiuá",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3128",
+    "city": "São João do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3129",
+    "city": "São João do Triunfo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3130",
+    "city": "São Jorge d`Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3131",
+    "city": "São Jorge do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3132",
+    "city": "São Jorge do Patrocínio",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3133",
+    "city": "São José da Boa Vista",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3134",
+    "city": "São José das Palmeiras",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3135",
+    "city": "São José dos Pinhais",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3136",
+    "city": "São Manoel do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3137",
+    "city": "São Mateus do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3138",
+    "city": "São Miguel do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3139",
+    "city": "São Pedro do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3140",
+    "city": "São Pedro do Ivaí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3141",
+    "city": "São Pedro do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3142",
+    "city": "São Sebastião da Amoreira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3143",
+    "city": "São Tomé",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3144",
+    "city": "Sapopema",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3145",
+    "city": "Sarandi",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3146",
+    "city": "Saudade do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3147",
+    "city": "Sengés",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3148",
+    "city": "Serranópolis do Iguaçu",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3149",
+    "city": "Sertaneja",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3150",
+    "city": "Sertanópolis",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3151",
+    "city": "Siqueira Campos",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3152",
+    "city": "Sulina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3153",
+    "city": "Tamarana",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3154",
+    "city": "Tamboara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3155",
+    "city": "Tapejara",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3156",
+    "city": "Tapira",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3157",
+    "city": "Teixeira Soares",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3158",
+    "city": "Telêmaco Borba",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3159",
+    "city": "Terra Boa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3160",
+    "city": "Terra Rica",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3161",
+    "city": "Terra Roxa",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3162",
+    "city": "Tibagi",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3163",
+    "city": "Tijucas do Sul",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3164",
+    "city": "Toledo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3165",
+    "city": "Tomazina",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3166",
+    "city": "Três Barras do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3167",
+    "city": "Tunas do Paraná",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3168",
+    "city": "Tuneiras do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3169",
+    "city": "Tupãssi",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3170",
+    "city": "Turvo",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3171",
+    "city": "Ubiratã",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3172",
+    "city": "Umuarama",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3173",
+    "city": "União da Vitória",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3174",
+    "city": "Uniflor",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3175",
+    "city": "Uraí",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3176",
+    "city": "Ventania",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3177",
+    "city": "Vera Cruz do Oeste",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3178",
+    "city": "Verê",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3179",
+    "city": "Virmond",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3180",
+    "city": "Vitorino",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3181",
+    "city": "Wenceslau Braz",
+    "uf": "PR",
+    "state": "Paraná"
+  },
+  {
+    "id": "3182",
+    "city": "Xambrê",
+    "uf": "PR",
+    "state": "Paraná"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "3591",
+    "city": "Angra dos Reis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3592",
+    "city": "Aperibé",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3593",
+    "city": "Araruama",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3594",
+    "city": "Areal",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3595",
+    "city": "Armação dos Búzios",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3596",
+    "city": "Arraial do Cabo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3597",
+    "city": "Barra do Piraí",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3598",
+    "city": "Barra Mansa",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3599",
+    "city": "Belford Roxo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3600",
+    "city": "Bom Jardim",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3601",
+    "city": "Bom Jesus do Itabapoana",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3602",
+    "city": "Cabo Frio",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3603",
+    "city": "Cachoeiras de Macacu",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3604",
+    "city": "Cambuci",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3605",
+    "city": "Campos dos Goytacazes",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3606",
+    "city": "Cantagalo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3607",
+    "city": "Carapebus",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3608",
+    "city": "Cardoso Moreira",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3609",
+    "city": "Carmo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3610",
+    "city": "Casimiro de Abreu",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3611",
+    "city": "Comendador Levy Gasparian",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3612",
+    "city": "Conceição de Macabu",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3613",
+    "city": "Cordeiro",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3614",
+    "city": "Duas Barras",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3615",
+    "city": "Duque de Caxias",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3616",
+    "city": "Engenheiro Paulo de Frontin",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3617",
+    "city": "Guapimirim",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3618",
+    "city": "Iguaba Grande",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3619",
+    "city": "Itaboraí",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3620",
+    "city": "Itaguaí",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3621",
+    "city": "Italva",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3622",
+    "city": "Itaocara",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3623",
+    "city": "Itaperuna",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3624",
+    "city": "Itatiaia",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3625",
+    "city": "Japeri",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3626",
+    "city": "Laje do Muriaé",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3627",
+    "city": "Macaé",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3628",
+    "city": "Macuco",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3629",
+    "city": "Magé",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3630",
+    "city": "Mangaratiba",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3631",
+    "city": "Maricá",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3632",
+    "city": "Mendes",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3633",
+    "city": "Mesquita",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3634",
+    "city": "Miguel Pereira",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3635",
+    "city": "Miracema",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3636",
+    "city": "Natividade",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3637",
+    "city": "Nilópolis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3638",
+    "city": "Niterói",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3639",
+    "city": "Nova Friburgo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3640",
+    "city": "Nova Iguaçu",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3641",
+    "city": "Paracambi",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3642",
+    "city": "Paraíba do Sul",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3643",
+    "city": "Parati",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3644",
+    "city": "Paty do Alferes",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3645",
+    "city": "Petrópolis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3646",
+    "city": "Pinheiral",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3647",
+    "city": "Piraí",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3648",
+    "city": "Porciúncula",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3649",
+    "city": "Porto Real",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3650",
+    "city": "Quatis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3651",
+    "city": "Queimados",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3652",
+    "city": "Quissamã",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3653",
+    "city": "Resende",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3654",
+    "city": "Rio Bonito",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3655",
+    "city": "Rio Claro",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3656",
+    "city": "Rio das Flores",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3657",
+    "city": "Rio das Ostras",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3658",
+    "city": "Rio de Janeiro",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3659",
+    "city": "Santa Maria Madalena",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3660",
+    "city": "Santo Antônio de Pádua",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3661",
+    "city": "São Fidélis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3662",
+    "city": "São Francisco de Itabapoana",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3663",
+    "city": "São Gonçalo",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3664",
+    "city": "São João da Barra",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3665",
+    "city": "São João de Meriti",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3666",
+    "city": "São José de Ubá",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3667",
+    "city": "São José do Vale do Rio Pret",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3668",
+    "city": "São Pedro da Aldeia",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3669",
+    "city": "São Sebastião do Alto",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3670",
+    "city": "Sapucaia",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3671",
+    "city": "Saquarema",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3672",
+    "city": "Seropédica",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3673",
+    "city": "Silva Jardim",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3674",
+    "city": "Sumidouro",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3675",
+    "city": "Tanguá",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3676",
+    "city": "Teresópolis",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3677",
+    "city": "Trajano de Morais",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3678",
+    "city": "Três Rios",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3679",
+    "city": "Valença",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3680",
+    "city": "Varre-Sai",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3681",
+    "city": "Vassouras",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "3682",
+    "city": "Volta Redonda",
+    "uf": "RJ",
+    "state": "Rio de Janeiro"
+  }
+]

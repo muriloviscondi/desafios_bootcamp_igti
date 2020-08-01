@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1487",
+    "city": "Água Clara",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1488",
+    "city": "Alcinópolis",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1489",
+    "city": "Amambaí",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1490",
+    "city": "Anastácio",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1491",
+    "city": "Anaurilândia",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1492",
+    "city": "Angélica",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1493",
+    "city": "Antônio João",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1494",
+    "city": "Aparecida do Taboado",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1495",
+    "city": "Aquidauana",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1496",
+    "city": "Aral Moreira",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1497",
+    "city": "Bandeirantes",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1498",
+    "city": "Bataguassu",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1499",
+    "city": "Bataiporã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1500",
+    "city": "Bela Vista",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1501",
+    "city": "Bodoquena",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1502",
+    "city": "Bonito",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1503",
+    "city": "Brasilândia",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1504",
+    "city": "Caarapó",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1505",
+    "city": "Camapuã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1506",
+    "city": "Campo Grande",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1507",
+    "city": "Caracol",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1508",
+    "city": "Cassilândia",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1509",
+    "city": "Chapadão do Sul",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1510",
+    "city": "Corguinho",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1511",
+    "city": "Coronel Sapucaia",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1512",
+    "city": "Corumbá",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1513",
+    "city": "Costa Rica",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1514",
+    "city": "Coxim",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1515",
+    "city": "Deodápolis",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1516",
+    "city": "Dois Irmãos do Buriti",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1517",
+    "city": "Douradina",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1518",
+    "city": "Dourados",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1519",
+    "city": "Eldorado",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1520",
+    "city": "Fátima do Sul",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1521",
+    "city": "Figueirão",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1522",
+    "city": "Glória de Dourados",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1523",
+    "city": "Guia Lopes da Laguna",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1524",
+    "city": "Iguatemi",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1525",
+    "city": "Inocência",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1526",
+    "city": "Itaporã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1527",
+    "city": "Itaquiraí",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1528",
+    "city": "Ivinhema",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1529",
+    "city": "Japorã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1530",
+    "city": "Jaraguari",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1531",
+    "city": "Jardim",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1532",
+    "city": "Jateí",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1533",
+    "city": "Juti",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1534",
+    "city": "Ladário",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1535",
+    "city": "Laguna Carapã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1536",
+    "city": "Maracaju",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1537",
+    "city": "Miranda",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1538",
+    "city": "Mundo Novo",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1539",
+    "city": "Naviraí",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1540",
+    "city": "Nioaque",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1541",
+    "city": "Nova Alvorada do Sul",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1542",
+    "city": "Nova Andradina",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1543",
+    "city": "Novo Horizonte do Sul",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1544",
+    "city": "Paranaíba",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1545",
+    "city": "Paranhos",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1546",
+    "city": "Pedro Gomes",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1547",
+    "city": "Ponta Porã",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1548",
+    "city": "Porto Murtinho",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1549",
+    "city": "Ribas do Rio Pardo",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1550",
+    "city": "Rio Brilhante",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1551",
+    "city": "Rio Negro",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1552",
+    "city": "Rio Verde de Mato Grosso",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1553",
+    "city": "Rochedo",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1554",
+    "city": "Santa Rita do Pardo",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1555",
+    "city": "São Gabriel do Oeste",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1556",
+    "city": "Selvíria",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1557",
+    "city": "Sete Quedas",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1558",
+    "city": "Sidrolândia",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1559",
+    "city": "Sonora",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1560",
+    "city": "Tacuru",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1561",
+    "city": "Taquarussu",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1562",
+    "city": "Terenos",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1563",
+    "city": "Três Lagoas",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  },
+  {
+    "id": "1564",
+    "city": "Vicentina",
+    "uf": "MS",
+    "state": "Mato Grosso do Sul"
+  }
+]
