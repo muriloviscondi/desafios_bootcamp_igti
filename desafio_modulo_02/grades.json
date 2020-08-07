@@ -34,22 +34,6 @@
       "timestamp": "2020-05-19T18:21:24.975Z"
     },
     {
-      "id": 5,
-      "student": "Loiane Groner",
-      "subject": "01 - JavaScript",
-      "type": "Trabalho Prático",
-      "value": 21,
-      "timestamp": "2020-05-19T18:21:24.981Z"
-    },
-    {
-      "id": 6,
-      "student": "Loiane Groner",
-      "subject": "02 - Node",
-      "type": "Trabalho Prático",
-      "value": 24,
-      "timestamp": "2020-05-19T18:21:24.987Z"
-    },
-    {
       "id": 7,
       "student": "Loiane Groner",
       "subject": "03 - React",
