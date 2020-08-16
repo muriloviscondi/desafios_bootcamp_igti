@@ -95,4 +95,43 @@ router.use((err, req, res, next) => {
   res.status(400).send({ error: err.message });
 });
 
+// ITEM 05
+router.get('/consultGrade/', async (req, res, next) => {
+  try {
+    const data = JSON.parse(await readFile(global.fileName));
+    const { student, subject } = req.body;
+    const { grades } = data;
+    const grade = grades.filter((students) => {
+      return students.student === student && students.subject === subject;
+    });
+
+    console.log(grade);
+
+    const totalValue = grade.reduce((acc, curr) => {
+      return acc + curr.value;
+    }, 0);
+
+    if (grade.length > 0) {
+      res.send({ value: totalValue });
+    } else {
+      res.status(400).send({ error: 'Usuário não encontrado.' });
+    }
+
+    res.send(grade);
+    req.params.student;
+  } catch (err) {
+    next(err);
+  }
+});
+
+// ITEM 06
+router.get('/', async (req, res, next) => {});
+
+// ITEM 07
+router.get('/', async (req, res, next) => {});
+
+router.use((err, req, res, next) => {
+  res.status(400).send(err.message);
+});
+
 export default router;
