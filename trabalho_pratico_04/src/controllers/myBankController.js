@@ -35,7 +35,7 @@ const accountDeposit = async (req, res) => {
 
     const newDeposit = new MyBank(data);
     newDeposit.save();
-    res.send(newDeposit);
+    res.send(`Saldo atual: ${data.balance}`);
   } catch (err) {
     res.status(500).res.send('Erro ao buscar todos os podcast - ' + err);
   }
@@ -53,12 +53,12 @@ const withdraw = async (req, res) => {
       res.send('Conta inexistente!');
     }
 
-    if (balance <= data.balance) {
-      data.balance = data.balance - balance;
+    if (balance + 1 <= data.balance) {
+      data.balance = data.balance - balance - 1;
 
       const newWithdraw = new MyBank(data);
       newWithdraw.save();
-      res.send(newWithdraw);
+      res.send(`Saque no valor de: ${balance}\nSaldo atual: ${data.balance}`);
     }
     res.send('Saldo Insuficiente');
   } catch (err) {
@@ -71,12 +71,15 @@ const checkBalance = async (req, res) => {
   const account = req.body;
 
   const data = await MyBank.findOne(account);
+  try {
+    if (!data) {
+      res.send('Conta inexistente!');
+    }
 
-  if (!data) {
-    res.send('Conta inexistente!');
+    res.send(`balance: ${data.balance}`);
+  } catch (err) {
+    res.status(500).res.send('Erro ao mostrar balance - ' + err);
   }
-
-  res.send(data);
 };
 
 // Item 7 - Crie um endpoint para excluir uma conta
@@ -84,17 +87,17 @@ const deleteAccount = async (req, res) => {
   try {
     const account = req.body;
     const data = await MyBank.findOne(account);
-    const id = await data.id;
 
-    const removeData = await MyBank.findByIdAndRemove({ _id: id });
+    if (data !== null) {
+      const id = await data.id;
+      const removeData = await MyBank.findByIdAndRemove({ _id: id });
 
-    if (!removeData) {
-      res.send('Conta não encontrada id: ' + id);
-    } else {
-      res.send('Podcast excluido com sucesso');
+      const { conta, agencia } = removeData;
+
+      res.send(`Agência: ${agencia}, Conta: ${conta} - excluido com sucesso`);
     }
 
-    console.log(id);
+    res.send('Conta inexistente!');
   } catch (err) {
     res.status(500).res.send('Erro ao deletar conta - ' + err);
   }
