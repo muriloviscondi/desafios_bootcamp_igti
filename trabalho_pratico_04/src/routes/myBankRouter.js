@@ -20,4 +20,8 @@ app.patch('/myBank/transfer', myBankController.transfer);
 
 app.get('/myBank/averageBalances/:agencia', myBankController.averageBalances);
 
+app.get('/myBank/lowestBalance', myBankController.lowestBalance);
+
+app.get('/myBank/highestBalance', myBankController.highestBalance);
+
 export { app as myBankRouter };

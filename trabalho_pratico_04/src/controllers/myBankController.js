@@ -158,6 +158,30 @@ const averageBalances = async (req, res) => {
   }
 };
 
+// Item 10 - Crie um endpoint para consultar os clientes com o menor saldo em conta
+const lowestBalance = async (req, res) => {
+  const { listNumber } = req.body;
+  try {
+    const lowest = await MyBank.find().sort({ balance: 1 }).limit(listNumber);
+
+    res.send(lowest);
+  } catch (err) {
+    res.status(500).res.send('Erro ao buscar as contas - ' + err);
+  }
+};
+
+// Item 11 - Crie um endpoint para consultar os clientes mais ricos do banco
+const highestBalance = async (req, res) => {
+  const { listNumber } = req.body;
+  try {
+    const highest = await MyBank.find().sort({ balance: -1 }).limit(listNumber);
+
+    res.send(highest);
+  } catch (err) {
+    res.status(500).res.send('Erro ao buscar as contas - ' + err);
+  }
+};
+
 export default {
   create,
   findAll,
@@ -167,4 +191,6 @@ export default {
   deleteAccount,
   transfer,
   averageBalances,
+  lowestBalance,
+  highestBalance,
 };
