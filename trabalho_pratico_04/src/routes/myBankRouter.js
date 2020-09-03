@@ -16,4 +16,8 @@ app.get('/myBank/checkBalance', myBankController.checkBalance);
 
 app.delete('/myBank/deleteAccount', myBankController.deleteAccount);
 
+app.patch('/myBank/transfer', myBankController.transfer);
+
+app.get('/myBank/averageBalances/:agencia', myBankController.averageBalances);
+
 export { app as myBankRouter };

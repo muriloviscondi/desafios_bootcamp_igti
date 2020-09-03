@@ -103,6 +103,61 @@ const deleteAccount = async (req, res) => {
   }
 };
 
+// Item 8 - Crie um endpoint para realizar transferências entre contas
+const transfer = async (req, res) => {
+  const { source, destination, balance } = req.body;
+
+  const newSource = await MyBank.findOne({ conta: source });
+  const newDestination = await MyBank.findOne({ conta: destination });
+  try {
+    if (newSource.agencia !== newDestination.agencia) {
+      newSource.balance = newSource.balance - 8;
+    }
+
+    if (newSource.balance >= balance) {
+      newSource.balance = newSource.balance - balance;
+      newDestination.balance = newDestination.balance + balance;
+
+      const newBalanceSource = new MyBank(newSource);
+      const newBalanceDestination = new MyBank(newDestination);
+
+      newBalanceSource.save();
+      newBalanceDestination.save();
+
+      res.send(
+        `Transferência no valor de: ${balance}: Saldo atual: ${newSource.balance}`
+      );
+    }
+
+    res.send(`Saldo Insuficiente! Saldo atual: ${newSource.balance}`);
+  } catch (err) {
+    res.status(500).res.send('Erro a transferencia entre contas - ' + err);
+  }
+};
+
+// Item 9 - Crie um endpoint para consultar a média do saldo dos clientes de determinada agência
+const averageBalances = async (req, res) => {
+  const agency = req.params.agencia;
+
+  try {
+    const data = await MyBank.find({ agencia: agency });
+
+    if (data.length < 1) {
+      res.send('Agência Inválida!');
+    }
+
+    const sumAllBalance = await data.reduce((acc, cur) => {
+      return acc + cur.balance;
+    }, 0);
+
+    const average = sumAllBalance / data.length;
+
+    res.send(`Agência: ${agency}, Média dos clientes: ${average}`);
+  } catch (err) {
+    res.status(500).res.send('Erro! Agência não encontrada. - ' + err);
+  }
+};
+
 export default {
   create,
   findAll,
@@ -110,4 +165,6 @@ export default {
   withdraw,
   checkBalance,
   deleteAccount,
+  transfer,
+  averageBalances,
 };
